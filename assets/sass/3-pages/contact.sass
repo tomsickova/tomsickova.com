@@ -1,0 +1,74 @@
+.contact-socials
+  float: right
+  width: 40%
+  font-size: 1.15em
+
+.contact-form
+  width: 50%
+  float: left
+
+  input
+    width: 250px
+    max-width: 100%
+
+  textarea
+    width: 90%
+    resize: none
+
+  input, textarea
+    font-size: 1em
+    border: 1px solid #ddd
+    background: white
+    padding: 0.9em
+    transition: all 0.2s ease-in-out
+    margin-bottom: 1.5em
+
+  input:focus,
+  textarea:focus
+    border-color: $color2
+    outline: none
+    box-shadow: 0 0 3px 0.5px $color1
+
+  form p
+    margin-bottom: 1.5em
+    text-indent: 0
+    letter-spacing: 0
+    font-size: 1em
+
+  button,
+  a.button
+    font-size: 1em
+    text-transform: uppercase
+    font-weight: 600
+    border: 2px solid $color2
+    color: $color1
+    background: transparent
+    line-height: 1em
+    padding: 0.6em 0.9em
+    transition: all 0.2s ease-in-out
+
+  button:hover, a.button:hover
+    border-color: $color1
+    color: $color1
+
+  button:hover.emphasis, a.button:hover.emphasis
+    color: white
+    background-color: $color1
+
+  a.email
+    color: $color1
+    font-weight: bold
+    text-transform: lowercase
+    padding: 2px
+    text-decoration: none
+
+    &:hover,
+    &:focus
+      color: $color1
+      border-bottom: 2px solid transparentize($color2, 0.4)
+      cursor: pointer
+
+
+.thanks
+  p, h2
+    text-align: center
