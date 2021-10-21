@@ -3,32 +3,27 @@ import { NuxtConfig } from '@nuxt/types'
 const config: NuxtConfig = {
   target: 'static',
   head() {
-    // const nuxtI18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
-
     return {
-      // htmlAttrs: {
-      //   ...nuxtI18nHead.htmlAttrs,
-      // },
       titleTemplate: (pageTitle: string) =>
         pageTitle ? `${pageTitle} – tomsickova.com` : 'tomsickova.com',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'format-detection', content: 'telephone=no' },
-        // ...nuxtI18nHead.meta,
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+        { rel: 'stylesheet', href: 'https://rsms.me/inter/inter.css' },
         {
-          href: 'https://fonts.googleapis.com/css?family=Amatic+SC:700|Comfortaa|Source+Sans+Pro',
+          href: 'https://fonts.googleapis.com/css?family=Amatic+SC:700',
           rel: 'stylesheet',
         },
-        // ...nuxtI18nHead.link,
       ],
       script: [{ hid: 'fa', src: 'https://use.fontawesome.com/3279a32114.js' }],
     }
   },
-  css: ['~/assets/sass/main'],
+  css: ['lightgallery/css/lightgallery.css'],
+  plugins: ['~/plugins/lightgallery.client'],
   components: true,
   vue: {
     config: {
@@ -42,7 +37,7 @@ const config: NuxtConfig = {
       },
     },
   },
-  buildModules: ['@nuxt/typescript-build', '@nuxtjs/tailwindcss', '@nuxt/image', 'nuxt-typed-vuex'],
+  buildModules: ['@nuxt/typescript-build', '@nuxtjs/tailwindcss', 'nuxt-typed-vuex'],
   modules: ['@nuxtjs/axios', '@nuxtjs/i18n'],
   i18n: {
     langDir: '~/lang/',

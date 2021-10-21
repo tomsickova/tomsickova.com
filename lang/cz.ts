@@ -1,28 +1,28 @@
 export default {
   page: {
     home: 'Úvodní',
-    gallery: 'Galerie',
+    portfolio: 'Portfolio',
     about: 'O mně',
     pricing: 'Ceník',
     contact: 'Kontakt',
+    policy: 'Obchodní podmínky',
   },
-  gallery: {
+  portfolio: {
     newborns: 'Novorozenci',
     kids: 'Děti',
     bellies: 'Těhulky',
     families: 'Rodinné',
   },
   contact: {
-    send: 'Odeslat',
+    name: 'Jméno',
+    namePlaceholder: 'Jméno a příjmení',
+    email: 'Váš e-mail',
+    emailPlaceholder: 'email@seznam.cz',
+    emailError: 'Vyplňte prosím email',
     phone: 'Mobil',
-    form: {
-      emailPlaceholder: 'Váš e-mail',
-      emailError: 'Vyplňte prosím email',
-      messagePlaceholder: 'Vaše poptávka',
-      messageError: 'Vyplnte prosim zpravu',
-    },
-  },
-  footer: {
-    text: 'Tatyana Tomsickova - focení novorozence, dětí, rodiny a těhotných maminek',
+    message: 'Vaše poptávka',
+    messagePlaceholder: '',
+    messageError: 'Vyplnte prosim zpravu',
+    send: 'Odeslat',
   },
 }

@@ -1,5 +1,5 @@
 <template>
-  <div class="pricelist-wrap">
+  <div class="prose max-w-none">
     <template v-if="$i18n.locale === 'en'">
       <h1>Bellies</h1>
       <hr />
@@ -164,7 +164,8 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
+import { Vue, Component } from 'nuxt-property-decorator'
 
-export default Vue.extend({})
+@Component
+export default class PricingBelliesPage extends Vue {}
 </script>

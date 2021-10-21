@@ -1,25 +1,17 @@
 <template>
-  <div class="wrap">
-    <header>
-      <LangSwitcher />
-      <div class="logo">
-        <img src="~/assets/img/logo.png" alt="Logo" />
-      </div>
-    </header>
-
-    <Navigation />
-    <main>
+  <div class="flex flex-col min-h-screen max-w-5xl mx-auto">
+    <!-- <LangSwitcher /> -->
+    <Header class="mb-4" />
+    <main class="flex-grow">
       <Nuxt />
-      <div class="clearfix"></div>
     </main>
     <Footer />
   </div>
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
+import { Vue, Component } from 'nuxt-property-decorator'
 
-export default Vue.extend({})
+@Component
+export default class DefaultLayout extends Vue {}
 </script>
-
-<style lang="postcss"></style>

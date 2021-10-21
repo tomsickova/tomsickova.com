@@ -1,3 +1,4 @@
+import lightGallery from 'lightgallery'
 import { accessorType } from '../store'
 
 declare module 'vue/types/vue' {
@@ -5,6 +6,7 @@ declare module 'vue/types/vue' {
   interface Vue {
     // Typed Vuex (https://typed-vuex.roe.dev/getting-started-nuxt#creating-type-definitions)
     $accessor: typeof accessorType
+    $lightGallery: typeof lightGallery
   }
 }
 

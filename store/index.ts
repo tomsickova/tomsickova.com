@@ -1,10 +1,9 @@
-import { join } from 'path'
 import { getAccessorType, actionTree } from 'typed-vuex'
 import { Context } from '@nuxt/types'
 
 export const state = () => ({
   home: [] as string[],
-  galleries: {} as Record<string, string[]>,
+  portfolio: {} as Record<string, string[]>,
 })
 
 export const actions = actionTree(
@@ -15,23 +14,23 @@ export const actions = actionTree(
       state.home = require
         .context('~/static/home', false, /^.*\.(jpg|png)$/)
         .keys()
-        .map((k) => join('/home', k))
+        .map((k) => k.replace(/^\./, '/home'))
 
-      // galleries
-      const galleries: Record<string, any> = {}
+      // portfolio
+      const portfolio: Record<string, any> = {}
       require
-        .context('~/static/gallery', true)
+        .context('~/static/portfolio', true)
         .keys()
         .forEach((key) => {
-          const gallery = key.split('/')[1]
+          const album = key.split('/')[1]
 
-          galleries[gallery] = galleries[gallery] || []
+          portfolio[album] = portfolio[album] || []
           if (key.includes('/images/')) {
-            galleries[gallery].push(join('/gallery', key))
+            portfolio[album].push(key.replace(/^\./, '/portfolio'))
           }
         })
 
-      state.galleries = galleries
+      state.portfolio = portfolio
     },
   }
 )

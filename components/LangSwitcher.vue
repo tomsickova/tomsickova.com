@@ -1,16 +1,16 @@
 <template>
-  <div class="lang">
-    <nuxt-link :to="switchLocalePath('cz')">
-      <img src="~/assets/img/cz.svg" alt="Switch to Czech" />
-    </nuxt-link>
-    <nuxt-link :to="switchLocalePath('en')">
-      <img src="~/assets/img/gb.svg" alt="Switch to English" />
-    </nuxt-link>
-  </div>
+  <nuxt-link
+    :to="switchLocalePath($i18n.locale === 'en' ? 'cz' : 'en')"
+    class="font-medium p-2 text-lg"
+  >
+    <img v-if="$i18n.locale === 'en'" src="~/assets/img/cz.svg" alt="Switch to Czech" class="h-5" />
+    <img v-else src="~/assets/img/gb.svg" alt="Switch to English" class="h-5" />
+  </nuxt-link>
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
+import { Vue, Component } from 'nuxt-property-decorator'
 
-export default Vue.extend({})
+@Component
+export default class LangSwitcher extends Vue {}
 </script>

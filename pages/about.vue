@@ -1,8 +1,8 @@
 <template>
-  <div class="page-about">
-    <img class="tatyana" src="~/assets/img/tatyana.jpg" alt="Tatyana portrait" />
+  <div class="flex flex-wrap items-start">
+    <img class="w-full lg:w-1/3 p-4" src="~/assets/img/tatyana.jpg" alt="Tatyana portrait" />
 
-    <div class="about">
+    <div class="prose w-full lg:w-1/2 p-4">
       <template v-if="$i18n.locale === 'en'">
         <h2>Hello,</h2>
         <p>
@@ -73,7 +73,8 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
+import { Vue, Component } from 'nuxt-property-decorator'
 
-export default Vue.extend({})
+@Component
+export default class AboutPage extends Vue {}
 </script>

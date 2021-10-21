@@ -1,28 +1,28 @@
 export default {
   page: {
     home: 'Home',
-    gallery: 'Gallery',
+    portfolio: 'Portfolio',
     about: 'About',
     pricing: 'Pricing',
     contact: 'Contact',
+    policy: 'Policy',
   },
-  gallery: {
+  portfolio: {
     newborns: 'Newborns',
     kids: 'Kids',
     bellies: 'Bellies',
     families: 'Families',
   },
   contact: {
+    name: 'Name',
+    namePlaceholder: 'First and Last',
+    email: 'Your e-mail',
+    emailPlaceholder: 'email@seznam.cz',
+    emailError: 'Please enter your e-mail',
+    phone: 'Telephone number',
+    message: 'Your message',
+    messagePlaceholder: '',
+    messageError: 'Please enter your message',
     send: 'Send',
-    phone: 'Phone',
-    form: {
-      emailPlaceholder: 'Your e-mail',
-      emailError: 'Please enter your e-mail',
-      messagePlaceholder: 'Your message',
-      messageError: 'Please enter your message',
-    },
-  },
-  footer: {
-    text: 'Tatyana Tomsickova - newborns, children, family and bellies photography',
   },
 }

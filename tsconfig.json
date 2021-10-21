@@ -24,7 +24,6 @@
       ]
     },
     "types": [
-      "@nuxt/image",
       "@nuxt/types",
       "@nuxtjs/axios",
       "@nuxtjs/i18n",
