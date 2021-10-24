@@ -40,17 +40,16 @@ type FooterType = {
 
 @Component
 export default class Footer extends Vue {
-  footer = {} as FooterType
+  footerCS = {} as FooterType
+  footerEN = {} as FooterType
 
-  async fetch() {
-    this.footer = await this.$strapi.find('footer', { _locale: this.$i18n.locale })
+  get footer() {
+    return this.$i18n.locale === 'en' ? this.footerEN : this.footerCS
   }
 
-  // created() {
-  //   this.$i18n.onLanguageSwitched = () => {
-  //     this.$fetch()
-  //     this.$forceUpdate()
-  //   }
-  // }
+  async fetch() {
+    this.footerCS = await this.$strapi.find('footer', { _locale: 'cs' })
+    this.footerEN = await this.$strapi.find('footer', { _locale: 'en' })
+  }
 }
 </script>

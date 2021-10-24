@@ -1,6 +1,6 @@
 <template>
   <nav class="flex flex-col md:flex-row items-center justify-between py-2">
-    <nuxt-link to="/">
+    <nuxt-link :to="localePath('/')">
       <img :src="navigation.logo.url" alt="Tatyana Tomsickova logo" class="max-w-full max-h-16" />
     </nuxt-link>
     <ul class="flex flex-wrap justify-center font-serif text-4xl">
@@ -29,17 +29,16 @@ type Navigation = {
 
 @Component
 export default class Header extends Vue {
-  navigation = {} as Navigation
+  navigationCS = {} as Navigation
+  navigationEN = {} as Navigation
 
-  async fetch() {
-    this.navigation = await this.$strapi.find('navigation', { _locale: this.$i18n.locale })
+  get navigation() {
+    return this.$i18n.locale === 'en' ? this.navigationEN : this.navigationCS
   }
 
-  // created() {
-  //   this.$i18n.onLanguageSwitched = () => {
-  //     this.$fetch()
-  //     this.$forceUpdate()
-  //   }
-  // }
+  async fetch() {
+    this.navigationCS = await this.$strapi.find('navigation', { _locale: 'cs' })
+    this.navigationEN = await this.$strapi.find('navigation', { _locale: 'en' })
+  }
 }
 </script>
