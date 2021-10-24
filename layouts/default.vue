@@ -1,6 +1,5 @@
 <template>
   <div class="flex flex-col min-h-screen max-w-5xl mx-auto">
-    <!-- <LangSwitcher /> -->
     <Header class="mb-4" />
     <main class="flex-grow">
       <Nuxt />

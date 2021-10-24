@@ -1,12 +1,12 @@
 <template>
   <div class="grid grid-cols-2 gap-4">
     <nuxt-link
-      v-for="(images, album) in $accessor.portfolio"
-      :key="album"
-      :to="localePath(`/portfolio/${album}`)"
+      v-for="gallery in galleries"
+      :key="gallery.slug"
+      :to="localePath(`/portfolio/${gallery.slug}`)"
       class="aspect-ratio-1-1 w-full h-full relative"
     >
-      <img :src="`/portfolio/${album}/thumbnail.png`" class="h-full w-full" />
+      <img :src="gallery.thumbnail.url" class="h-full w-full" />
       <div
         class="
           absolute
@@ -24,15 +24,27 @@
           transition-opacity
         "
       >
-        {{ $t(`portfolio.${album}`) }}
+        {{ gallery.title }}
       </div>
     </nuxt-link>
   </div>
 </template>
 
 <script lang="ts">
+import { Context } from '@nuxt/types'
 import { Vue, Component } from 'nuxt-property-decorator'
+import { Gallery } from '~/types'
 
 @Component
-export default class GalleryRootPage extends Vue {}
+export default class GalleryRootPage extends Vue {
+  galleries!: Gallery[]
+
+  async asyncData({ $strapi, i18n }: Context) {
+    const galleries = await $strapi.find('galleries', { _locale: i18n.locale })
+
+    return {
+      galleries,
+    }
+  }
+}
 </script>

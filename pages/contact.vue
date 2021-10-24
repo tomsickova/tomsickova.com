@@ -27,13 +27,7 @@
       <label for="telephone">{{ $t('contact.phone') }}</label>
       <input id="telephone" type="telephone" name="telephone" placeholder="+420 123456789" />
       <label for="message">{{ $t('contact.message') }}</label>
-      <textarea
-        id="message"
-        rows="6"
-        name="message"
-        :placeholder="$t('contact.messagePlaceholder')"
-        required=""
-      ></textarea>
+      <textarea id="message" rows="6" name="message" required=""></textarea>
       <input
         id="email-subject"
         type="hidden"
@@ -44,6 +38,37 @@
     <input type="submit" :value="$t('contact.send')" />
   </form>
 </template>
+
+<i18n>
+{
+  "cs": {
+    "contact": {
+      "name": "Jméno",
+      "namePlaceholder": "Jméno a příjmení",
+      "email": "Váš e-mail",
+      "emailPlaceholder": "email@seznam.cz",
+      "emailError": "Vyplňte prosím email",
+      "phone": "Mobil",
+      "message": "Vaše poptávka",
+      "messageError": "Vyplnte prosim zpravu",
+      "send": "Odeslat"
+    }
+  },
+  "en": {
+    "contact": {
+      "name": "Name",
+      "namePlaceholder": "First and Last",
+      "email": "Your e-mail",
+      "emailPlaceholder": "email@seznam.cz",
+      "emailError": "Please enter your e-mail",
+      "phone": "Telephone number",
+      "message": "Your message",
+      "messageError": "Please enter your message",
+      "send": "Send"
+    }
+  }
+}
+</i18n>
 
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'

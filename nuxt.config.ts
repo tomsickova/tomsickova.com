@@ -37,29 +37,46 @@ const config: NuxtConfig = {
       },
     },
   },
-  buildModules: ['@nuxt/typescript-build', '@nuxtjs/tailwindcss', 'nuxt-typed-vuex'],
-  modules: ['@nuxtjs/axios', '@nuxtjs/i18n'],
+  buildModules: [
+    '@nuxt/typescript-build',
+    '@nuxt/image',
+    '@nuxtjs/tailwindcss',
+    // 'nuxt-typed-vuex'
+  ],
+  modules: [
+    '@nuxtjs/axios',
+    '@nuxtjs/i18n',
+    '@nuxtjs/strapi',
+    '@nuxtjs/markdownit',
+    'nuxt-interpolation',
+  ],
   i18n: {
-    langDir: '~/lang/',
-    baseUrl: 'https://tomsickova.com',
-    locales: [
-      {
-        name: 'English',
-        code: 'en',
-        iso: 'en-US',
-        file: 'en.ts',
-      },
-      {
-        name: 'Český',
-        code: 'cz',
-        iso: 'cz-CZ',
-        file: 'cz.ts',
-      },
-    ],
-    defaultLocale: 'cz',
-    vueI18n: {
-      fallbackLocale: 'cz',
-    },
+    locales: ['cs', 'en'],
+    defaultLocale: 'cs',
+    vueI18nLoader: true,
+    // langDir: '~/lang/',
+    // baseUrl: 'https://tomsickova.com',
+    // locales: [
+    //   {
+    //     name: 'English',
+    //     code: 'en',
+    //     iso: 'en-US',
+    //     file: 'en.ts',
+    //   },
+    //   {
+    //     name: 'Český',
+    //     code: 'cz',
+    //     iso: 'cz-CZ',
+    //     file: 'cz.ts',
+    //   },
+    // ],
+    // defaultLocale: 'cz',
+    // vueI18n: {
+    //   fallbackLocale: 'cz',
+    // },
+  },
+  markdownit: {
+    runtime: true, // Support `$md()`
   },
 }
 

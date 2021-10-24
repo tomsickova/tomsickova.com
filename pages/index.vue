@@ -1,20 +1,40 @@
 <template>
   <div class="swiper-container my-6">
     <div class="swiper-wrapper">
-      <div v-for="image in $accessor.home" :key="image" class="swiper-slide aspect-w-16 aspect-h-9">
-        <img :src="image" />
+      <div
+        v-for="image in homePage.images"
+        :key="image.url"
+        class="swiper-slide aspect-w-16 aspect-h-9"
+      >
+        <img :src="image.url" />
       </div>
     </div>
   </div>
 </template>
 
-<script>
+<script lang="ts">
+import { Context } from '@nuxt/types'
 import { Vue, Component } from 'nuxt-property-decorator'
 import SwiperInstance from 'swiper/bundle'
 import 'swiper/swiper-bundle.css'
+import { Image } from '~/types'
+
+type HomePageType = {
+  images: Image[]
+}
 
 @Component
 export default class Homepage extends Vue {
+  homePage!: HomePageType
+
+  async asyncData({ $strapi, i18n }: Context) {
+    const homePage = await $strapi.find('home-page', { _locale: i18n.locale })
+
+    return {
+      homePage,
+    }
+  }
+
   mounted() {
     // eslint-disable-next-line
     new SwiperInstance('.swiper-container', {
