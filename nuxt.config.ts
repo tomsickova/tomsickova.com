@@ -23,7 +23,7 @@ const config: NuxtConfig = {
     }
   },
   css: ['lightgallery/css/lightgallery.css'],
-  plugins: ['~/plugins/lightgallery.client'],
+  plugins: ['~/plugins/preview.client', '~/plugins/lightgallery.client'],
   components: true,
   vue: {
     config: {
