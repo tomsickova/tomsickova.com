@@ -1,7 +1,7 @@
 <template>
   <footer class="pt-8 pb-4">
     <div class="flex justify-between flex-wrap px-4 py-8">
-      <div v-html="$md.render(footer.info)" />
+      <div v-html="footer.info" />
       <div class="text-5xl">
         <a
           v-for="social in footer.socialLinks"
@@ -20,7 +20,7 @@
     </div>
 
     <div class="text-right">
-      &copy; {{ new Date().getFullYear() }} Tatyana Tomsickova &middot;
+      &copy; {{ new Date().getFullYear() }} Tatyana Tomšíčkova &middot;
       <nuxt-link :to="localePath(footer.termsLink.url)" class="underline">
         {{ footer.termsLink.label }}
       </nuxt-link>

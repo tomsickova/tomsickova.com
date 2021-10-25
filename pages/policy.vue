@@ -1,5 +1,5 @@
 <template>
-  <div v-interpolation class="prose" v-html="$md.render(policyPage.text)" />
+  <div v-interpolation class="prose" v-html="policyPage.text" />
 </template>
 
 <script lang="ts">

@@ -37,46 +37,12 @@ const config: NuxtConfig = {
       },
     },
   },
-  buildModules: [
-    '@nuxt/typescript-build',
-    '@nuxt/image',
-    '@nuxtjs/tailwindcss',
-    // 'nuxt-typed-vuex'
-  ],
-  modules: [
-    '@nuxtjs/axios',
-    '@nuxtjs/i18n',
-    '@nuxtjs/strapi',
-    '@nuxtjs/markdownit',
-    'nuxt-interpolation',
-  ],
+  buildModules: ['@nuxt/typescript-build', '@nuxt/image', '@nuxtjs/tailwindcss'],
+  modules: ['@nuxtjs/i18n', '@nuxtjs/strapi', 'nuxt-interpolation'],
   i18n: {
     locales: ['cs', 'en'],
     defaultLocale: 'cs',
     vueI18nLoader: true,
-    // langDir: '~/lang/',
-    // baseUrl: 'https://tomsickova.com',
-    // locales: [
-    //   {
-    //     name: 'English',
-    //     code: 'en',
-    //     iso: 'en-US',
-    //     file: 'en.ts',
-    //   },
-    //   {
-    //     name: 'Český',
-    //     code: 'cz',
-    //     iso: 'cz-CZ',
-    //     file: 'cz.ts',
-    //   },
-    // ],
-    // defaultLocale: 'cz',
-    // vueI18n: {
-    //   fallbackLocale: 'cz',
-    // },
-  },
-  markdownit: {
-    runtime: true, // Support `$md()`
   },
 }
 

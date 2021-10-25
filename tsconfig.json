@@ -26,12 +26,9 @@
     "types": [
       "@nuxt/types",
       "@nuxt/image",
-      "@nuxtjs/axios",
       "@nuxtjs/i18n",
       "@nuxtjs/strapi",
-      "@nuxtjs/markdownit",
       "@types/node",
-      "@types/webpack-env"
     ]
   },
   "exclude": [

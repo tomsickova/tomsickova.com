@@ -1,5 +1,5 @@
 <template>
-  <div v-interpolation class="prose max-w-none" v-html="$md.render(pricingPage.text)" />
+  <div v-interpolation class="prose max-w-none" v-html="pricingPage.text" />
 </template>
 
 <script lang="ts">

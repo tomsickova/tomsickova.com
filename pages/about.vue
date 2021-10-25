@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-wrap items-start">
     <img class="w-full lg:w-1/3 p-4" :src="aboutPage.image.url" alt="Tatyana portrait" />
-    <div v-interpolation class="prose w-full lg:w-1/2 p-4" v-html="$md.render(aboutPage.text)" />
+    <div v-interpolation class="prose w-full lg:w-1/2 p-4" v-html="aboutPage.text" />
   </div>
 </template>
 
