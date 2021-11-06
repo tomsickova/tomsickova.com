@@ -19,7 +19,7 @@
       <div class="md:text-right col-span-3 md:col-span-1">
         &copy; {{ new Date().getFullYear() }} Tatyana Tomšíčkova
         <br />
-        <nuxt-link :to="localePath(footer.termsLink.url)" class="underline whitespace-nowrap">
+        <nuxt-link :to="localePath('/policy')" class="underline whitespace-nowrap">
           {{ footer.termsLink.label }}
         </nuxt-link>
       </div>

@@ -5,10 +5,8 @@
         :to="localePath('/')"
         class="font-serif text-4xl my-4 md:my-0"
         style="background: none !important"
-      >
-        <!-- <img :src="navigation.logo.url" alt="Tatyana Tomsickova logo" class="max-w-full max-h-16" /> -->
-        Taťána Tomšíčková
-      </nuxt-link>
+        v-text="navigation.name"
+      />
       <ul class="flex flex-wrap justify-center text-xl">
         <li v-for="item in navigation.items" :key="item.url">
           <nuxt-link
@@ -27,10 +25,9 @@
 
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
-import { Image } from '~/types'
 
 type Navigation = {
-  logo: Image
+  name: string
   items: Array<{ url: string; label: string }>
 }
 

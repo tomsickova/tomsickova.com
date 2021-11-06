@@ -5,7 +5,7 @@ const config: NuxtConfig = {
   head() {
     return {
       titleTemplate: (pageTitle: string) =>
-        pageTitle ? `${pageTitle} – tomsickova.com` : 'tomsickova.com',
+        pageTitle ? `${pageTitle} – Tatyana Tomšíčková` : 'Tatyana Tomšíčková',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
