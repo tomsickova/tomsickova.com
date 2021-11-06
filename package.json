@@ -24,7 +24,8 @@
     "nuxt": "^2.15.7",
     "nuxt-interpolation": "^0.2.3",
     "nuxt-property-decorator": "^2.9.1",
-    "swiper": "6"
+    "swiper": "6",
+    "vue-gtag": "^1.16.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",

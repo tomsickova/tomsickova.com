@@ -28,7 +28,7 @@ const config: NuxtConfig = {
     }
   },
   css: ['lightgallery/css/lightgallery.css'],
-  plugins: ['~/plugins/preview.client', '~/plugins/lightgallery.client'],
+  plugins: ['~/plugins/preview.client', '~/plugins/lightgallery.client', '~/plugins/gtag'],
   components: true,
   vue: {
     config: {
