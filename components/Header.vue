@@ -51,7 +51,7 @@ export default class Header extends Vue {
 nav {
   max-width: 1600px;
 }
-.nuxt-link-exact-active {
+.nuxt-link-active {
   background-repeat: repeat-x;
   background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
   background-size: 1px 1px;
