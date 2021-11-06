@@ -1,12 +1,31 @@
 <template>
-  <div class="swiper-container my-6">
-    <div class="swiper-wrapper">
-      <div
-        v-for="image in homePage.images"
-        :key="image.url"
-        class="swiper-slide aspect-w-16 aspect-h-9"
-      >
-        <img :src="image.url" />
+  <div>
+    <!-- <div class="flex justify-center"> -->
+    <div style="min-height: 25vh">
+      <h1
+        class="
+          t-padding
+          font-serif
+          text-3xl
+          lg:text-5xl
+          text-center
+          leading-tight
+          max-w-4xl
+          mx-auto
+        "
+        v-html="homePage.heading"
+      />
+      <!-- </div> -->
+    </div>
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div
+          v-for="image in homePage.images"
+          :key="image.url"
+          class="swiper-slide aspect-w-16 aspect-h-9"
+        >
+          <img :src="image.url" />
+        </div>
       </div>
     </div>
   </div>
@@ -20,6 +39,7 @@ import 'swiper/swiper-bundle.css'
 import { Image } from '~/types'
 
 type HomePageType = {
+  heading: string
   images: Image[]
 }
 

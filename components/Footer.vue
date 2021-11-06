@@ -1,29 +1,28 @@
 <template>
-  <footer class="pt-8 pb-4">
-    <div class="flex justify-between flex-wrap px-4 py-8">
-      <div v-html="footer.info" />
-      <div class="text-5xl">
+  <footer class="flex items-center justify-center t-padding">
+    <div class="t-width w-full grid grid-cols-3 gap-5 md:gap-0 text-center">
+      <div class="md:text-left col-span-3 md:col-span-1" v-html="footer.info" />
+
+      <div class="flex justify-center space-x-1 col-span-3 md:col-span-1">
         <a
           v-for="social in footer.socialLinks"
           :key="social.url"
           :href="social.url"
           target="_blank"
+          class="p-1"
         >
-          <i
-            v-if="social.url.includes('facebook')"
-            class="fa fa-facebook-official"
-            aria-hidden="true"
-          />
-          <i v-if="social.url.includes('instagram')" class="fa fa-instagram" aria-hidden="true" />
+          <IconFacebook v-if="social.url.includes('facebook')" class="h-9 w-9" />
+          <IconInstagram v-if="social.url.includes('instagram')" class="h-9 w-9" />
         </a>
       </div>
-    </div>
 
-    <div class="text-right">
-      &copy; {{ new Date().getFullYear() }} Tatyana Tomšíčkova &middot;
-      <nuxt-link :to="localePath(footer.termsLink.url)" class="underline">
-        {{ footer.termsLink.label }}
-      </nuxt-link>
+      <div class="md:text-right col-span-3 md:col-span-1">
+        &copy; {{ new Date().getFullYear() }} Tatyana Tomšíčkova
+        <br />
+        <nuxt-link :to="localePath(footer.termsLink.url)" class="underline whitespace-nowrap">
+          {{ footer.termsLink.label }}
+        </nuxt-link>
+      </div>
     </div>
   </footer>
 </template>
@@ -31,6 +30,8 @@
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
 import { Link } from '~/types'
+import IconFacebook from '~/assets/facebook.svg'
+import IconInstagram from '~/assets/instagram.svg'
 
 type FooterType = {
   info: string
@@ -38,7 +39,12 @@ type FooterType = {
   termsLink: Link
 }
 
-@Component
+@Component({
+  components: {
+    IconFacebook,
+    IconInstagram,
+  },
+})
 export default class Footer extends Vue {
   footerCS = {} as FooterType
   footerEN = {} as FooterType
@@ -53,3 +59,10 @@ export default class Footer extends Vue {
   }
 }
 </script>
+
+<style lang="postcss" scoped>
+footer {
+  min-height: 20vh;
+  background-color: #dfe0e1;
+}
+</style>

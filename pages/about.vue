@@ -1,7 +1,12 @@
 <template>
-  <div class="flex flex-wrap items-start">
-    <img class="w-full lg:w-1/3 p-4" :src="aboutPage.image.url" alt="Tatyana portrait" />
-    <div v-interpolation class="prose w-full lg:w-1/2 p-4" v-html="aboutPage.text" />
+  <!-- <div class="flex flex-wrap justify-center items-start t-width mx-auto"> -->
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-10 t-width mx-auto">
+    <img
+      :src="aboutPage.image.url"
+      alt="Tatyana portrait"
+      class="about__image w-full max-w-xl mx-auto"
+    />
+    <div v-interpolation class="prose about__text" v-html="aboutPage.text" />
   </div>
 </template>
 
@@ -28,3 +33,14 @@ export default class AboutPage extends Vue {
   }
 }
 </script>
+
+<style lang="postcss" scoped>
+/* .about__image {
+  width: 45%;
+  max-width: 600px;
+}
+.about__text {
+  width: 45%;
+  margin-left: 10%;
+} */
+</style>

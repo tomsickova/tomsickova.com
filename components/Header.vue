@@ -1,21 +1,28 @@
 <template>
-  <nav class="flex flex-col md:flex-row items-center justify-between py-2">
-    <nuxt-link :to="localePath('/')">
-      <img :src="navigation.logo.url" alt="Tatyana Tomsickova logo" class="max-w-full max-h-16" />
-    </nuxt-link>
-    <ul class="flex flex-wrap justify-center font-serif text-4xl">
-      <li v-for="item in navigation.items" :key="item.url">
-        <nuxt-link
-          :to="localePath(item.url)"
-          class="inline-block p-1 m-3 text-gray-900 hover:text-gray-500 transition-colors"
-          v-text="item.label"
-        />
-      </li>
-      <li class="flex items-center ml-4">
-        <LangSwitcher class="p-1" />
-      </li>
-    </ul>
-  </nav>
+  <header class="t-padding">
+    <nav class="flex flex-col md:flex-row items-center justify-between mx-auto">
+      <nuxt-link
+        :to="localePath('/')"
+        class="font-serif text-4xl my-4 md:my-0"
+        style="background: none !important"
+      >
+        <!-- <img :src="navigation.logo.url" alt="Tatyana Tomsickova logo" class="max-w-full max-h-16" /> -->
+        Taťána Tomšíčková
+      </nuxt-link>
+      <ul class="flex flex-wrap justify-center text-xl">
+        <li v-for="item in navigation.items" :key="item.url">
+          <nuxt-link
+            :to="localePath(item.url)"
+            class="inline-block p-1 m-2 text-black"
+            v-text="item.label"
+          />
+        </li>
+        <li class="flex items-center ml-4">
+          <LangSwitcher class="p-1" />
+        </li>
+      </ul>
+    </nav>
+  </header>
 </template>
 
 <script lang="ts">
@@ -42,3 +49,15 @@ export default class Header extends Vue {
   }
 }
 </script>
+
+<style lang="postcss" scoped>
+nav {
+  max-width: 1600px;
+}
+.nuxt-link-exact-active {
+  background-repeat: repeat-x;
+  background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+  background-size: 1px 1px;
+  background-position: 0 calc(100% - 0.1em);
+}
+</style>

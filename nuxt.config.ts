@@ -18,8 +18,13 @@ const config: NuxtConfig = {
           href: 'https://fonts.googleapis.com/css?family=Amatic+SC:700',
           rel: 'stylesheet',
         },
+        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true },
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap',
+        },
       ],
-      script: [{ hid: 'fa', src: 'https://use.fontawesome.com/3279a32114.js' }],
     }
   },
   css: ['lightgallery/css/lightgallery.css'],
@@ -38,7 +43,7 @@ const config: NuxtConfig = {
     },
   },
   buildModules: ['@nuxt/typescript-build', '@nuxt/image', '@nuxtjs/tailwindcss'],
-  modules: ['@nuxtjs/i18n', '@nuxtjs/strapi', 'nuxt-interpolation'],
+  modules: ['@nuxtjs/i18n', '@nuxtjs/strapi', 'nuxt-interpolation', 'svg-to-vue-component/nuxt'],
   i18n: {
     locales: ['cs', 'en'],
     defaultLocale: 'cs',

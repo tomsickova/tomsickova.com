@@ -8,12 +8,16 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  plugins: [require('@tailwindcss/aspect-ratio'), require('@tailwindcss/typography')],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/typography'),
+  ],
   theme: {
     extend: {
       fontFamily: {
         sans: ['Inter var', ...defaultTheme.fontFamily.sans],
-        serif: ['Amatic SC', ...defaultTheme.fontFamily.serif],
+        serif: ['Cormorant Garamond', ...defaultTheme.fontFamily.serif],
       },
     },
   },
