@@ -1,5 +1,5 @@
 <template>
-  <div v-interpolation class="prose" v-html="policyPage.text" />
+  <div v-interpolation class="prose max-w-3xl mx-auto" v-html="policyPage.text" />
 </template>
 
 <script lang="ts">
