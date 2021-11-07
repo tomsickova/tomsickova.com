@@ -42,7 +42,7 @@ const config: NuxtConfig = {
       },
     },
   },
-  buildModules: ['@nuxt/typescript-build', '@nuxt/image', '@nuxtjs/tailwindcss'],
+  buildModules: ['@nuxt/typescript-build', '@nuxtjs/tailwindcss'],
   modules: ['@nuxtjs/i18n', '@nuxtjs/strapi', 'nuxt-interpolation', 'svg-to-vue-component/nuxt'],
   i18n: {
     locales: ['cs', 'en'],

@@ -11,7 +11,7 @@
         <li v-for="item in navigation.items" :key="item.url">
           <nuxt-link
             :to="localePath(item.url)"
-            class="inline-block p-1 m-2 text-black"
+            class="menu-item inline-block p-1 m-2 text-black"
             v-text="item.label"
           />
         </li>
@@ -51,7 +51,7 @@ export default class Header extends Vue {
 nav {
   max-width: 1600px;
 }
-.nuxt-link-active {
+.menu-item.nuxt-link-active {
   background-repeat: repeat-x;
   background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
   background-size: 1px 1px;
