@@ -49,6 +49,14 @@ const config: NuxtConfig = {
     defaultLocale: 'cs',
     vueI18nLoader: true,
   },
+
+  // https://github.com/nuxt-modules/tailwindcss/issues/359#issuecomment-1092458890
+  watchers: {
+    // Temporary fix: https://github.com/nuxt-community/tailwindcss-module/issues/359
+    webpack: {
+      ignored: ['**/*.eslintcache', '**/.git/**'],
+    },
+  },
 }
 
 export default config
