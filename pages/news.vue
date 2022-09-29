@@ -1,9 +1,9 @@
 <template>
   <div>
     <div v-interpolation class="prose max-w-3xl mx-auto" v-html="newsPage.text1" />
-    <ul class="my-10">
-      <li v-for="image in newsPage.images" :key="image.id">
-        <img :src="image.url" loading="lazy" />
+    <ul class="my-10 columns-1 lg:columns-2 gap-0 max-w-[1920px] mx-auto">
+      <li v-for="image in newsPage.images" :key="image.id" class="p-0.5">
+        <img :src="image.url" loading="lazy" class="object-cover w-full h-full" />
       </li>
     </ul>
     <div v-interpolation class="prose max-w-3xl mx-auto" v-html="newsPage.text2" />
@@ -34,54 +34,3 @@ export default class NewsPage extends Vue {
   }
 }
 </script>
-
-<style lang="postcss" scoped>
-ul {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-li {
-  height: 40vh;
-  flex-grow: 1;
-}
-
-li:last-child {
-  flex-grow: 10;
-}
-
-img {
-  max-height: 100%;
-  min-width: 100%;
-  object-fit: cover;
-  vertical-align: bottom;
-}
-
-@media (max-aspect-ratio: 1/1) {
-  li {
-    height: 30vh;
-  }
-}
-
-@media (max-height: 480px) {
-  li {
-    height: 80vh;
-  }
-}
-
-@media (max-aspect-ratio: 1/1) and (max-width: 480px) {
-  ul {
-    flex-direction: row;
-  }
-
-  li {
-    height: auto;
-    width: 100%;
-  }
-  img {
-    width: 100%;
-    max-height: 75vh;
-    min-width: 0;
-  }
-}
-</style>

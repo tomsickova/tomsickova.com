@@ -33,14 +33,3 @@ export default class AboutPage extends Vue {
   }
 }
 </script>
-
-<style lang="postcss" scoped>
-/* .about__image {
-  width: 45%;
-  max-width: 600px;
-}
-.about__text {
-  width: 45%;
-  margin-left: 10%;
-} */
-</style>
