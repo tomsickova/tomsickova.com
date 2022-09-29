@@ -7,11 +7,13 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "lint": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
-    "prepare": "husky install"
+    "lint": "eslint --ext \".js,.vue\" --ignore-path .gitignore ."
   },
   "lint-staged": {
     "*.{js,ts,vue}": "eslint"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
   },
   "dependencies": {
     "@nuxtjs/i18n": "^7.1.0",
@@ -38,11 +40,11 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
-    "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
     "postcss": "^8.3.5",
     "postcss-nested": "^5.0.6",
     "prettier": "^2.3.2",
+    "simple-git-hooks": "^2.8.0",
     "svg-to-vue-component": "^0.3.8"
   }
 }
