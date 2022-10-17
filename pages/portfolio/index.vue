@@ -10,11 +10,7 @@
       <div
         class="absolute capitalize w-full h-full inset-0 bg-black bg-opacity-50 text-white text-2xl opacity-0 hover:opacity-100 flex items-center justify-center font-medium transition-opacity"
       >
-        {{
-          te(`portfolio.${gallery.title}`)
-            ? $t(`portfolio.${gallery.title}`)
-            : gallery.title
-        }}
+        {{ te(`portfolio.${gallery.title}`) ? $t(`portfolio.${gallery.title}`) : gallery.title }}
       </div>
     </nuxt-link>
   </div>
@@ -24,16 +20,16 @@
 const { te } = useI18n()
 const localePath = useLocalePath()
 
-const images = Object.keys(
+const images = Object.entries(
   import.meta.glob('~/assets/images/portfolio/*/*.jpg', { eager: true })
-)
+).map(([key, value]) => [key, value.default])
 
 type Gallery = { title: ''; thumbnail: '' }
 
 const galleries: Gallery[] = images.reduce((acc, image) => {
-  const title = image.split('/')[4]
+  const title = image[0].split('/')[4]
   if (!acc.find((g) => g.title === title)) {
-    acc.push({ title, thumbnail: image })
+    acc.push({ title, thumbnail: image[1] })
   }
   return acc
 }, [])

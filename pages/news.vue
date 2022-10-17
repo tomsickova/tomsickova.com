@@ -12,5 +12,7 @@
 </template>
 
 <script setup lang="ts">
-const images = Object.keys(import.meta.glob('~/assets/images/news/*'))
+const images = Object.values(import.meta.glob('~/assets/images/news/*', { eager: true })).map(
+  (v) => v.default
+)
 </script>

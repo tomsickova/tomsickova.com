@@ -18,10 +18,10 @@ const { $lightGallery } = useNuxtApp()
 const route = useRoute()
 
 const getGalleryImages = (gallery: string) => {
-  const images = Object.keys(
+  const images = Object.entries(
     import.meta.glob('~/assets/images/portfolio/*/*.jpg', { eager: true })
   )
-  return images.filter((image) => image.includes(gallery))
+  return images.filter((image) => image[0].includes(gallery)).map((i) => i[1].default)
 }
 
 const gallery = route.params.gallery as string

@@ -12,11 +12,7 @@
         disableOnInteraction: false,
       }"
     >
-      <SwiperSlide
-        v-for="image in images"
-        :key="image"
-        class="swiper-slide aspect-w-16 aspect-h-9"
-      >
+      <SwiperSlide v-for="image in images" :key="image" class="swiper-slide aspect-w-16 aspect-h-9">
         <img :src="image" />
       </SwiperSlide>
     </Swiper>
@@ -29,9 +25,9 @@ import { Swiper, SwiperSlide } from 'swiper/vue'
 import 'swiper/css'
 import 'swiper/css/autoplay'
 
-const images = Object.keys(
+const images = Object.values(
   import.meta.glob('~/assets/images/homepage/*.jpg', { eager: true })
-)
+).map((v) => v.default)
 </script>
 
 <style lang="postcss" scoped>
