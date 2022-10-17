@@ -2,49 +2,39 @@
   <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
     <nuxt-link
       v-for="gallery in galleries"
-      :key="gallery.slug"
-      :to="localePath(`/portfolio/${gallery.slug}`)"
+      :key="gallery.title"
+      :to="localePath(`/portfolio/${gallery.title}`)"
       class="aspect-ratio-1-1 w-full h-full relative"
     >
-      <img :src="gallery.thumbnail.url" class="h-full w-full" />
+      <img :src="gallery.thumbnail" class="h-full w-full object-cover" />
       <div
-        class="
-          absolute
-          w-full
-          h-full
-          inset-0
-          bg-black bg-opacity-50
-          text-white text-2xl
-          opacity-0
-          hover:opacity-100
-          flex
-          items-center
-          justify-center
-          font-medium
-          transition-opacity
-        "
+        class="absolute capitalize w-full h-full inset-0 bg-black bg-opacity-50 text-white text-2xl opacity-0 hover:opacity-100 flex items-center justify-center font-medium transition-opacity"
       >
-        {{ gallery.title }}
+        {{
+          te(`portfolio.${gallery.title}`)
+            ? $t(`portfolio.${gallery.title}`)
+            : gallery.title
+        }}
       </div>
     </nuxt-link>
   </div>
 </template>
 
-<script lang="ts">
-import { Context } from '@nuxt/types'
-import { Vue, Component } from 'nuxt-property-decorator'
-import { Gallery } from '~/types'
+<script setup lang="ts">
+const { te } = useI18n()
+const localePath = useLocalePath()
 
-@Component
-export default class GalleryRootPage extends Vue {
-  galleries!: Gallery[]
+const images = Object.keys(
+  import.meta.glob('~/assets/images/portfolio/*/*.jpg', { eager: true })
+)
 
-  async asyncData({ $strapi, i18n }: Context) {
-    const galleries = await $strapi.find('galleries', { _locale: i18n.locale })
+type Gallery = { title: ''; thumbnail: '' }
 
-    return {
-      galleries,
-    }
+const galleries: Gallery[] = images.reduce((acc, image) => {
+  const title = image.split('/')[4]
+  if (!acc.find((g) => g.title === title)) {
+    acc.push({ title, thumbnail: image })
   }
-}
+  return acc
+}, [])
 </script>

@@ -1,0 +1,31 @@
+{
+  "navigation": {
+    "news": "Aktuálně",
+    "portfolio": "Portfolio",
+    "pricing": "Ceník",
+    "about": "O mně",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "terms": "Obchodní podmínky"
+  },
+  "portfolio": {
+    "autumn": "Podzim",
+    "bellies": "Těhulky",
+    "christmas": "Vánoce",
+    "families": "Rodinné",
+    "kids": "Děti",
+    "newborns": "Novorozenci"
+  },
+  "contact": {
+    "name": "Jméno",
+    "namePlaceholder": "Jméno a příjmení",
+    "email": "Váš e-mail",
+    "emailPlaceholder": "email{'@'}seznam.cz",
+    "emailError": "Vyplňte prosím email",
+    "phone": "Mobil",
+    "message": "Vaše poptávka",
+    "messageError": "Vyplnte prosim zpravu",
+    "send": "Odeslat"
+  }
+}

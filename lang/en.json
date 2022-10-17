@@ -1,0 +1,31 @@
+{
+  "navigation": {
+    "news": "News",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "terms": "Terms and Policy"
+  },
+  "portfolio": {
+    "autumn": "Autumn",
+    "bellies": "Bellies",
+    "christmas": "Christmas",
+    "families": "Families",
+    "kids": "Kids",
+    "newborns": "Newborns"
+  },
+  "contact": {
+    "name": "Name",
+    "namePlaceholder": "First and Last",
+    "email": "Your e-mail",
+    "emailPlaceholder": "email{'@'}seznam.cz",
+    "emailError": "Please enter your e-mail",
+    "phone": "Telephone number",
+    "message": "Your message",
+    "messageError": "Please enter your message",
+    "send": "Send"
+  }
+}
