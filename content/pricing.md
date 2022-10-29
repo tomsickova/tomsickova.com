@@ -7,11 +7,11 @@ description: ''
 
 ## Balíček NOVOROZENCE – 4.000,- Kč
 
-16 ks retušované fotografie. Fotografií obdržíte v digitální podobě.
+16 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
 Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
 
-Příplatek za víkendové focení - 200,-Kč
+Příplatek za víkendové focení 200,-Kč
 
 Fotografování tohoto typu trvá 2-3 hodiny.
 
