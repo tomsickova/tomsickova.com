@@ -10,10 +10,7 @@
       </NuxtLink>
       <ul class="flex flex-wrap justify-center text-xl">
         <li v-for="item in items" :key="item.url">
-          <NuxtLink
-            :to="localePath(item.url)"
-            class="menu-item inline-block p-1 m-2 text-black"
-          >
+          <NuxtLink :to="localePath(item.url)" class="menu-item inline-block p-1 m-2 text-black">
             {{ item.label }}
           </NuxtLink>
         </li>
@@ -59,11 +56,7 @@ nav {
 }
 .menu-item.nuxt-link-active {
   background-repeat: repeat-x;
-  background-image: linear-gradient(
-    to right,
-    currentColor 100%,
-    currentColor 0
-  );
+  background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
   background-size: 1px 1px;
   background-position: 0 calc(100% - 0.1em);
 }
