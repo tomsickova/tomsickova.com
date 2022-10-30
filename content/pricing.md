@@ -106,4 +106,4 @@ Doba vyhotovení a předání fotografií je 21 kalendářních dní. Vyhrazuji 
 
 Vice informace najdete v [obchodních podmínkách](/policy). Objednáním služeb fotografa je automaticky stvrzeno přijetí obchodních podmínek a srozumění s nimi.
 
-_Ceny jsou platné od 1.1.2022_
+_Ceny jsou platné od 1.11.2022_
