@@ -65,7 +65,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
 
-Příplatek za víkendové focení - 200,-Kč
+Příplatek za víkendové focení 200,-Kč
 
 Fotografování tohoto typu trvá 1 hodinu.
 
