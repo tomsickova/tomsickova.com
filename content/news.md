@@ -6,6 +6,7 @@ description: ''
 # 🎄⭐️🎄VÁNOČNÍ MINIFOCENÍ🎄⭐️🎄
 
 Info k vánočnímu focení
+
 Letošní vánoční focení je už hotové! Doporučené barvy oblečení – bílá, béžová, hnědá, červená, vánoční vzory. Mám připravenu jednu velkou scénu. Fotografování s vánoční tematikou začíná 10. 10. a budu fotit do 19. 12. 2022.
 
 🎄Balíček Vánoce ⭐️ 6 retušovaných fotografii v elektronické podobě ⭐️1500,- Kč
