@@ -5,13 +5,13 @@ description: ''
 
 🎈🥰 👩‍❤️‍💋‍👩Valentinske focení!!! 🎈🥰 👩‍❤️‍💋‍👩
 
-Info k Valentinske focení
+Info k Valentinskemu focení
 
 Letošní Valentinske focení je už hotové! Doporučené barvy oblečení - všechny barvy se budou hodit.
 
 🎈Balíček Valentine 🎈 6 retušovaných fotografii v elektronické podobě 🎈1500,- Kč
 
-🎈Nad rámec obou balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám., každá fotografie nad rámec baličku je za 200,- Kč.  Tištěné papírové fotky nejsou součástí balíčku. Neupravené fotografie neposkytují.
+🎈Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, každá fotografie nad rámec baličku je za 200,- Kč.  Tištěné papírové fotky nejsou součástí balíčku. Neupravené fotografie neposkytují.
 
 🎈Příplatek za víkendové focení - 200,-Kč
 
