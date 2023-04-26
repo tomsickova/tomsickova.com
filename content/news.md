@@ -9,7 +9,7 @@ Info k focení
 
 Focení s kachničkami je tu! Doporučené barvy oblečení - svetle barvy, oblečeni bez potisku.
 
-🐥🐥🐥 Balíček Velikonoce 🐥🐥🐥 5 retušovaných fotografii v elektronické podobě 🐥🐥🐥 1500,- Kč
+🐥🐥🐥 Balíček Kachnicky 🐥🐥🐥 5 retušovaných fotografii v elektronické podobě 🐥🐥🐥 1500,- Kč
 
 🐥🐥🐥 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, každá fotografie nad rámec baličku je za 200,- Kč.  Tištěné papírové fotky nejsou součástí balíčku. Neupravené fotografie neposkytují.
 
