@@ -7,7 +7,7 @@ description: ''
 
 ## Balíček NOVOROZENCE – 4.000,- Kč
 
-16 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
+15 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
 Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
 
@@ -25,7 +25,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 # **Foceni děti, rodinné a těhulky ateliér:**
 
-## Balíček MINI – 2.200,- Kč
+## Balíček MINI – 2.500,- Kč
 
 10 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
@@ -43,7 +43,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 150,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
 
 Příplatek za víkendové focení 200,-Kč.
 
@@ -77,7 +77,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 150,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
 
 Příplatek za víkendové focení 200,- Kč
 
@@ -106,4 +106,4 @@ Doba vyhotovení a předání fotografií je 21 kalendářních dní. Vyhrazuji 
 
 Vice informace najdete v [obchodních podmínkách](/policy). Objednáním služeb fotografa je automaticky stvrzeno přijetí obchodních podmínek a srozumění s nimi.
 
-_Ceny jsou platné od 1.11.2022_
+_Ceny jsou platné od 1.5.2023_
