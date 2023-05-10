@@ -59,7 +59,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 # **Foceni děti, rodinné a těhulky exteriér:**
 
-## Balíček MINI – 3.000,- Kč
+## Balíček MINI – 3.200,- Kč
 
 15 ks retušované fotografie. Fotografií obdržíte v digitální podobě.
 
