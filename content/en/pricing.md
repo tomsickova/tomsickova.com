@@ -7,7 +7,7 @@ description: ''
 
 ## NEWBORN Package – 4.000,- Kč
 
-16 ks retouched pictures in digital files.
+15 ks retouched pictures in digital files.
 
 Additional retouched picture over the package - 200,- Kč.
 
@@ -31,7 +31,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 >
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors. There is a requirement for choosing  STANDARD package.
 
-## MINI Package– 2.200,- Kč
+## MINI Package– 2.500,- Kč
 
 10 ks retouched pictures in digital files.
 
@@ -49,7 +49,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 20 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 150,- Kč.
+Additional retouched picture over the package - 200,- Kč.
 
 This type of photo session last approximately 1-1,5 hour.
 
@@ -63,7 +63,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors.
 
-## MINI Package– 3.000,- Kč
+## MINI Package– 3.200,- Kč
 
 15 ks retouched pictures in digital files.
 
@@ -81,7 +81,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 20 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 150,- Kč.
+Additional retouched picture over the package - 200,- Kč.
 
 This type of photo session last approximately 1-1,5 hour.
 
