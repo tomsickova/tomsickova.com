@@ -3,7 +3,7 @@ title: 'Aktuálně'
 description: ''
 ---
 
-🐥🐥🐥 Focení s kachničkami!!! 🐥🐥🐥
+🐥🐥🐥 Focení s kachničkami - skončilo!!! 🐥🐥🐥
 
 Info k focení
 
