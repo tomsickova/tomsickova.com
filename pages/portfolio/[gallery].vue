@@ -4,11 +4,11 @@
       {{ te(`portfolio.${gallery}`) ? $t(`portfolio.${gallery}`) : gallery }}
     </h1>
 
-    <div id="lightgallery" class="grid grid-cols-1 md:grid-cols-2 gap-2">
-      <a v-for="image in images" :key="image" :href="image" class="w-full">
-        <img :src="image" class="w-full" />
-      </a>
-    </div>
+    <ul id="lightgallery" class="columns-1 lg:columns-2 gap-0">
+      <li v-for="image in images" :key="image" :data-src="image" class="p-0.5">
+        <img :src="image" class="object-cover w-full h-full cursor-pointer" />
+      </li>
+    </ul>
   </div>
 </template>
 
