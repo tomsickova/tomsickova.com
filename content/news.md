@@ -20,6 +20,4 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 🎄TEŠIM SE NA VÁS
 
-Objednání: t.tomsickova@seznam.cz, tel.774002703 nebo do zprav
-
 ## [**Objednat se na focení**](/contact) 
