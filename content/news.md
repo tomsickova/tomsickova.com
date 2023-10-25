@@ -4,8 +4,7 @@ description: ''
 ---
 
 🍁🍂🍄☀️**Podzimní mini focení v Central park Stodůlky**🍁🍂🍄☀️
-🍁 Ponděli 23.10: 15:00, 15:20, 15:40, 16:00, 16:20, 16:40 🍁
-🍁 Úterý 24.10 16:00, 16:20, 16:40 🍁
+🍁 Ponděli 30.10: 14:00, 14:20, 14:40, 15:00, 15:20, 15:40 🍁
 🍁 4 retušovaných fotografii v elektronické podobě - 1200,- Kč 🍁
 🍁 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 220 kč. Tištěné papírové fotky nejsou součástí balíčku.🍁
  
