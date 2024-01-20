@@ -9,7 +9,7 @@ description: ''
 
 15 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
 
 Příplatek za víkendové focení 200,-Kč
 
@@ -29,7 +29,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 10 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
 
 Příplatek za víkendové focení 200,-Kč.
 
@@ -43,7 +43,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
 
 Příplatek za víkendové focení 200,-Kč.
 
@@ -63,7 +63,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 15 ks retušované fotografie. Fotografií obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
 
 Příplatek za víkendové focení 200,-Kč
 
@@ -77,7 +77,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 200,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
 
 Příplatek za víkendové focení 200,- Kč
 
