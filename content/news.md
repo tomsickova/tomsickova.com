@@ -1,19 +1,18 @@
----
+O---
 title: 'Aktuálně'
 description: ''
 ---
 
  
-🎄VÁNOCE 2023 už jsou tu!
+🎄VELIKONOCE 2024!
 
- Info k vánočnímu focení
-Letošní vánoční focení je už připravené! 
-Doporučené barvy oblečení – bílá, béžová, zelená, červená, vánoční vzory.
-Fotografování s vánoční tematikou začíná 1. 10. a budu fotit do 19. 12. 2023.
+ Info k velikonočnému focení
+Doporučené barvy oblečení – bílá, béžová, zelená, žlutá, modrá, hnědá.
+Fotografování s velikonoční tematikou bude probíhat od 1. 3. 2024 a budu fotit do 1. 4. 2024.
 
-  🎄Balíček Vánoce ⭐️ 6 retušovaných fotografii v elektronické podobě ⭐️1700,- Kč
+  🎄Balíček Velikonce ⭐️ 4 retušovaných fotografii v elektronické podobě ⭐️1000,- Kč
   
-  🎄Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 220 kč. Tištěné papírové fotky nejsou součástí balíčku.
+  🎄Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
   
   🌲Příplatek za víkendové focení - 200,-Kč
   
