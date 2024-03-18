@@ -6,7 +6,7 @@ Aktuálně
 
  Info k velikonočnému focení
 Doporučené barvy oblečení – bílá, béžová, zelená, žlutá, modrá, hnědá.
-Fotografování s velikonoční tematikou bude probíhat od 1. 3. 2024 a budu fotit do 1. 4. 2024.
+Fotografování s velikonoční tematikou bude probíhat od 1. 3. 2024 a budu fotit do 15. 4. 2024.
 
   🎄Balíček Velikonoce ⭐️ 4 retušovaných fotografii v elektronické podobě ⭐️1000,- Kč
   
