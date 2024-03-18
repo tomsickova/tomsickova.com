@@ -9,7 +9,7 @@ description: ''
 
 15 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 250,- Kč.
 
 Příplatek za víkendové focení 200,-Kč
 
@@ -29,7 +29,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 10 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 250,- Kč.
 
 Příplatek za víkendové focení 200,-Kč.
 
@@ -43,7 +43,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 250,- Kč.
 
 Příplatek za víkendové focení 200,-Kč.
 
@@ -63,7 +63,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 15 ks retušované fotografie. Fotografií obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 250,- Kč.
 
 Příplatek za víkendové focení 200,-Kč
 
@@ -77,7 +77,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-Každá další fotografie nad rámec tohoto balíčku 220,- Kč.
+Každá další fotografie nad rámec tohoto balíčku 250,- Kč.
 
 Příplatek za víkendové focení 200,- Kč
 
@@ -106,4 +106,4 @@ Doba vyhotovení a předání fotografií je 21 kalendářních dní. Vyhrazuji 
 
 Vice informace najdete v [obchodních podmínkách](/policy). Objednáním služeb fotografa je automaticky stvrzeno přijetí obchodních podmínek a srozumění s nimi.
 
-_Ceny jsou platné od 1.5.2023_
+_Ceny jsou platné od 1.4.2024_
