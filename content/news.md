@@ -1,6 +1,4 @@
-O---
-title: 'Aktuálně'
-description: ''
+Aktuálně
 ---
 
  
@@ -10,7 +8,7 @@ description: ''
 Doporučené barvy oblečení – bílá, béžová, zelená, žlutá, modrá, hnědá.
 Fotografování s velikonoční tematikou bude probíhat od 1. 3. 2024 a budu fotit do 1. 4. 2024.
 
-  🎄Balíček Velikonce ⭐️ 4 retušovaných fotografii v elektronické podobě ⭐️1000,- Kč
+  🎄Balíček Velikonoce ⭐️ 4 retušovaných fotografii v elektronické podobě ⭐️1000,- Kč
   
   🎄Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
   
