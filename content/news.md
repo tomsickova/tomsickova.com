@@ -37,7 +37,7 @@ Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4
 
 19.4.2024 (patek) - 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00 - možnost exteriérove focení
 
-20.4.2024 (sobota) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00 - možnost exteriérove focení
+20.4.2024 (sobota) - 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00 - možnost exteriérove focení
 
 21.4.2024 (neděle) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 16:00 - možnost exteriérove focení
 
