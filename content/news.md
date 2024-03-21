@@ -17,17 +17,17 @@ Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4
 
   Terminy na focení s housátky:
   
-10.4.2024 (středa) - 10:00, 10:30, 12:00, 12:30, 13:00, 13:30, 14:00, 15:00 
+10.4.2024 (středa) - 12:00, 12:30, 13:00, 13:30, 14:00, 15:00 
 
 11.4.2024 (čtvrtek) - obsazeno
 
-12.4.2024 (patek) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00 
+12.4.2024 (patek) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30
 
 13.4.2024 (sobota) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:30, 14:00, 14:30
 
 14.4.2024 (neděle) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 16:00      
 
-15.4.2024 (pondělí) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:30 - možnost exteriérove focení
+15.4.2024 (pondělí) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30 - možnost exteriérove focení
 
 16.4.2024 (utery) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00 - možnost exteriérove focení
 
@@ -43,11 +43,11 @@ Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4
 
 22.4.2024 (pondělí) - 10:00, 10:30, 11:00, 11:30 - pouze exteriérove focení
 
-23.4.2024 (utery) - 9:30, 10:00, 10:30, 11:00, 11:30 - pouze exteriérove focení
+23.4.2024 (utery) - 10:30, 11:00, 11:30 - pouze exteriérove focení
 
 24.4.2024 (středa) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 15:00 -  pouze exteriérove focení
 
-25.4.2024 (čtvrtek) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00 - pouze exteriérove focení
+25.4.2024 (čtvrtek) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30- pouze exteriérove focení
 
 
 K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervačního poplatku (zálohy), který činí 500 Kč, zaplatíte bankovním převodem, variabilní symbol vám přidělím. Tato záloha bude odečtena s celkové ceny Vámi vybraného balíčku. Pokud budete muset foceni zrušit, nabídnu Vám jiny náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na tento nedostavíte, záloha Vám bohužel propadá. Zbývající částka za focení je splatná v hotovosti nejpozději v den focení.
