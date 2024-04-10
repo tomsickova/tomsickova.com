@@ -18,7 +18,7 @@ Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4
   Terminy na focení s housátky:
   
  
-12.4.2024 (patek) - 10:00, 11:00, 12:00, 13:00, 14:00
+12.4.2024 (patek) - 10:00, 12:00, 13:00, 14:00
 
 13.4.2024 (sobota) - 13:00, 14:00
 
