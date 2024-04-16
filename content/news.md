@@ -16,14 +16,10 @@ Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 17. 4
   🐤Příplatek za víkendové focení - 200,-Kč
 
   Terminy na focení s housátky:
-  
-15.4.2024 (pondělí) - 15:00, 16:00 - ateliér
+ 
+17.4.2024 (středa) - 9:00, 10:00, 11:00, 11:30, 12:00, 13:00, 13:30, 14:00, 15:00 - možnost exteriérove focení
 
-16.4.2024 (utery) - 10:00, 11:00, 12:00 - ateliér
-
-17.4.2024 (středa) - 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 15:00 - možnost exteriérove focení
-
-18.4.2024 (čtvrtek) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 16:00, 16:30 - možnost exteriérove focení
+18.4.2024 (čtvrtek) - 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 13:00, 15:00, 16:00 - možnost exteriérove focení
 
 
 
