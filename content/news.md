@@ -7,7 +7,7 @@ Aktuálně
    🐥Info k focení s housátky!🐥
    
 Doporučené barvy oblečení – bílá, béžová, zelená, žlutá, modrá, hnědá, růžova.
-Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 17. 4. 2024.  
+Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4. 2024.  
 
   🐤Balíček Housátka 🐥 6 retušovaných fotografii v elektronické podobě 🐥1700,- Kč
   
