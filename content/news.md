@@ -2,7 +2,8 @@ Aktuálně
 ---
 
  
-🐥FOCENÍ S HOUSATKY!🐥
+🐥 SKONČILO 🐥
+🐥FOCENÍ S HOUSATKY!🐥 
 
    🐥Info k focení s housatky!🐥
    
