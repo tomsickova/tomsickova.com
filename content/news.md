@@ -9,7 +9,7 @@ Aktuálně
 Doporučené barvy oblečení – bílá, béžová, zelená, žlutá, modrá, hnědá, růžova.
 Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4. 2024.  
 
-  🐤Balíček Housátka 🐥 6 retušovaných fotografii v elektronické podobě 🐥1700,- Kč
+  🐤Balíček Housatka 🐥 6 retušovaných fotografii v elektronické podobě 🐥1700,- Kč
   
   🐤Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku. Neupravené fotografie se neposkytují a zůstávají majetkem Autora, tzn. ostatní nafocené fotografie se neposkytují.
   
