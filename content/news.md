@@ -11,7 +11,7 @@ Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4
 
   🐤Balíček Housátka 🐥 6 retušovaných fotografii v elektronické podobě 🐥1700,- Kč
   
-  🐤Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
+  🐤Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku. Neuprávene fotografie neposkytuji.
   
   🐤Příplatek za víkendové focení - 200,-Kč
 
