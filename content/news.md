@@ -3,6 +3,7 @@ Aktuálně
 🌞 MINIFOCENÍČKO MÁMA A JÁ!🌞
 
 🌺 Na Den Matek planuji venkovní minifocení v parku (jěšte misto upřesním dle aktualní situace kde co pokvěte). Býl bý zájem? Baliček 4 fotek za 1000 kč. Focení na cca 15 minut, termíny budou v odpoledních hodinach ve čtvrtek 9.5 a patek 10.5. 🌷
+
 🌹 16:00h, 16:20h, 17:00h, 17:20, 17:40, 18:00h 🥀❤️
 
    🌞 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku. Neupravené fotografie se neposkytují a zůstávají majetkem Autora, tzn. ostatní nafocené fotografie se neposkytují.
@@ -13,7 +14,7 @@ Aktuálně
    🐥Info k focení s housatky!🐥
    
 Doporučené barvy oblečení – bílá, béžová, zelená, žlutá, modrá, hnědá, růžova.
-Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 25. 4. 2024.  
+Fotografování se zviřatky bude probíhat od 10. 4. 2024 a budu fotit do 20. 4. 2024.  
 
   🐤Balíček Housatka 🐥 6 retušovaných fotografii v elektronické podobě 🐥1700,- Kč
   
