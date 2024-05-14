@@ -1,6 +1,7 @@
 Aktuálně
 ---
-🌞 MINIFOCENÍČKO MÁMA A JÁ!🌞
+🌞 SKONČILO 🌞
+🌞 MINIFOCENÍČKO MÁMA A JÁ!🌞 
 
 🌺 Na Den Matek planuji venkovní minifocení v parku (jěšte misto upřesním dle aktualní situace kde co pokvěte). Býl bý zájem? Baliček 4 fotek za 1000 kč. Focení na cca 15 minut, termíny budou v odpoledních hodinach ve čtvrtek 9.5 a pátek 10.5. 🌷
 
