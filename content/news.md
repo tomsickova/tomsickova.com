@@ -19,6 +19,10 @@ Doporučené barvy oblečení – béžová, oranžová, červená, žlutá, mod
 
 V připadě nepřižnivé počasi, focení se presune.
 
+Rezervační systém na podzimní focení
+
+https://calendly.com/t-tomsickova/podzim
+
 🎄VÁNOCE 2024 již brzy!🎄
 
  Info k vánočnímu focení
@@ -39,8 +43,9 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 🎄TEŠIM SE NA VÁS
 
-Rezervační systém
+Rezervační systém na Vánoční focení
 
-https://calendly.com/t-tomsickova/30min
+https://calendly.com/t-tomsickova/vanoce
+
  
 ## [**Objednat se na focení**](/contact) 
