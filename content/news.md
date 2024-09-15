@@ -3,7 +3,7 @@ Aktuálně
 
 🍁🍂🍄☀️ **Podzimní mini focení v Central park Stodůlky** 🍁🍂🍄☀️
 
-🍁 Středa 9.10: 15:00, 15:20, 15:40, 16:00, 16:20, 16:40 🍁
+🍁 Středa 9.10: 16:00, 16:20, 16:40 🍁
 
 🍁 Čtvrtek 10.10: 15:00, 15:20, 15:40, 16:00, 16:20, 16:40 🍁
 
@@ -21,9 +21,6 @@ Doporučené barvy oblečení – béžová, oranžová, červená, žlutá, mod
 
 V připadě nepřižnivé počasi, focení se presune.
 
-Rezervační systém na podzimní focení
-
-https://calendly.com/t-tomsickova/podzim
 
 🎄VÁNOCE 2024 již brzy!🎄
 
