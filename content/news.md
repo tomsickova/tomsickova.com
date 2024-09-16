@@ -30,7 +30,7 @@ V připadě nepřižnivé počasi, focení se presune.
 
 Doporučené barvy oblečení – bílá, zlatá, béžová, zelená, červená, vánoční vzory.
 
-Fotografování s vánoční tematikou začíná 1. 10. a budu fotit do 21. 12. 2024.
+Fotografování s vánoční tematikou začíná 21. 9. a budu fotit do 20. 12. 2024.
 
   🎄Balíček Vánoce ⭐️ 6 retušovaných fotografii v elektronické podobě ⭐️1800,- Kč
   
