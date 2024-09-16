@@ -32,7 +32,7 @@ Doporučené barvy oblečení – bílá, zlatá, béžová, zelená, červená,
 
 Fotografování s vánoční tematikou začíná 21. 9. a budu fotit do 20. 12. 2024.
 
-  🎄 Balíček Vánoce 🎄 **6 retušovaných fotografií** v elektronické podobě 🎄** 1800,- Kč**
+  🎄 Balíček Vánoce 🎄 **6 retušovaných fotografií** v elektronické podobě 🎄 **1800,- Kč**
   
   🎄 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografií k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
   
