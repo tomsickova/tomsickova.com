@@ -1,20 +1,6 @@
 Aktuálně
 ---
 
-🍁🍂🍄☀️ **Podzimní mini focení v Central park Stodůlky** 🍁🍂🍄☀️
-
-🍁 Středa 16.10: 15:00, 15:20, 15:40, 16:00, 16:20🍁
-
-🍁 Ponděli 21.10: 15:00, 15:20, 15:40, 16:00, 16:20🍁
-
-🍁 5 retušovaných fotografii v elektronické podobě - 1500,- Kč 🍁
-
-🍁 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografii k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.🍁
-
-Doporučené barvy oblečení – béžová, oranžová, červená, žlutá, modrá, hnědá.
-
-V připadě nepřižnivé počasi, focení se presune.
-
 
 🎄VÁNOCE 2024 jsou již hotové!🎄
 
