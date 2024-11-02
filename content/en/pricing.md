@@ -9,7 +9,7 @@ description: ''
 
 15 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 200,- Kč.
+Additional retouched picture over the package - 250,- Kč.
 
 This type of photo session last approximately 2-3 hours.
 
@@ -35,7 +35,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 10 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 200,- Kč.
+Additional retouched picture over the package - 250,- Kč.
 
 This type of photo session last approximately 30-40 minutes.
 
@@ -45,11 +45,11 @@ Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-## STANDARD Package– 4.000,- Kč
+## STANDARD Package– 4.500,- Kč
 
 20 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 200,- Kč.
+Additional retouched picture over the package - 250,- Kč.
 
 This type of photo session last approximately 1-1,5 hour.
 
@@ -67,7 +67,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 15 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 200,- Kč.
+Additional retouched picture over the package - 250,- Kč.
 
 This type of photo session last approximately 30-40 minutes.
 
@@ -77,11 +77,11 @@ Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-## STANDARD Package– 4.000,- Kč
+## STANDARD Package– 4.200,- Kč
 
 20 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 200,- Kč.
+Additional retouched picture over the package - 250,- Kč.
 
 This type of photo session last approximately 1-1,5 hour.
 
@@ -105,4 +105,4 @@ Pictures will be ready 21 days after you send me your choice. I keep my right to
 
 More information you can find here [terms and conditions](/policy).  By ordering my services you automatically accept my terms and conditions.
 
-_Price valid from 1.1.2022_
+_Price valid from 1.1.2024_
