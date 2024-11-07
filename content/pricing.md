@@ -73,7 +73,7 @@ Neupravené fotografie neposkytují.
 
 K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervačního poplatku (zálohy), který činí 500 Kč. Platba bankovním převodem, variabilní symbol Vám přidělím. Tato záloha bude odečtena z celkové ceny vybraného balíčku. Pokud budete muset focení zrušit, nabídnu Vám jiny náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na tento nedostavíte, záloha Vám bohužel propadá. Zbývající částka za focení je splatná v hotovosti nejpozději v den focení.
 
-## Balíček STANDARD – 4.200,- Kč
+## Balíček STANDARD – 4.500,- Kč
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
