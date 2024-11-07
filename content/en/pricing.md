@@ -77,7 +77,7 @@ Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-## STANDARD Package– 4.200,- Kč
+## STANDARD Package– 4.500,- Kč
 
 20 ks retouched pictures in digital files.
 
