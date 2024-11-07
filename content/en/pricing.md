@@ -63,7 +63,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors.
 
-## MINI Package– 3.200,- Kč
+## MINI Package– 3.500,- Kč
 
 15 ks retouched pictures in digital files.
 
