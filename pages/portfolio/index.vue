@@ -22,7 +22,7 @@ const localePath = useLocalePath()
 
 const images = Object.entries(
   import.meta.glob('~/assets/images/portfolio/*/*.jpg', { eager: true })
-).map(([key, value]) => [key, value.default])
+).map(([key, value]: any) => [key, value.default])
 
 type Gallery = { title: ''; thumbnail: '' }
 

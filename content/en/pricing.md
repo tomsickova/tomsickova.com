@@ -103,6 +103,6 @@ Photosession fee is due after the session or may be tranfered by bank account be
 
 Pictures will be ready 21 days after you send me your choice. I keep my right to extend the time for finishing your order.
 
-More information you can find here [terms and conditions](/policy).  By ordering my services you automatically accept my terms and conditions.
+More information you can find here [terms and conditions](/en/policy).  By ordering my services you automatically accept my terms and conditions.
 
 _Price valid from 1.1.2024_

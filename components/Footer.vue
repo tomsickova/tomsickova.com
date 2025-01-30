@@ -16,8 +16,7 @@
           target="_blank"
           class="p-1"
         >
-          <IconFacebook v-if="social.url.includes('facebook')" class="h-9 w-9" />
-          <IconInstagram v-if="social.url.includes('instagram')" class="h-9 w-9" />
+          <component :is="social.icon" class="h-9 w-9" />
         </a>
       </div>
 
@@ -42,10 +41,12 @@ const socialLinks = [
   {
     url: 'https://www.facebook.com/tatyanatomsickovaphotography',
     label: 'Facebook',
+    icon: IconFacebook,
   },
   {
-    url: 'https://www.instagram.com/tatyanatomsickovaphotography',
+    url: 'https://www.instagram.com/tatyana_tomsickova',
     label: 'Instagram',
+    icon: IconInstagram,
   },
 ]
 </script>

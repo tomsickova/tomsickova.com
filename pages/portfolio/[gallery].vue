@@ -21,7 +21,7 @@ const getGalleryImages = (gallery: string) => {
   const images = Object.entries(
     import.meta.glob('~/assets/images/portfolio/*/*.jpg', { eager: true })
   )
-  return images.filter((image) => image[0].includes(gallery)).map((i) => i[1].default)
+  return images.filter((image) => image[0].includes(gallery)).map((i: any) => i[1].default)
 }
 
 const gallery = route.params.gallery as string

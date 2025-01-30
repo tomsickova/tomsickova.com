@@ -7,7 +7,7 @@
     method="post"
     class="max-w-md mx-auto"
   >
-    <ContentDoc class="font-bold text-2xl text-center mb-8" />
+    <ContentRenderer v-if="page" :value="page" class="font-bold text-2xl text-center mb-8" />
     <fieldset id="fs-frm-inputs" class="grid grid-cols-1 gap-6 mb-8">
       <label for="full-name" class="block">
         <span class="text-gray-700 font-medium">{{ $t('contact.name') }}</span>
@@ -67,3 +67,10 @@
     />
   </form>
 </template>
+
+<script setup lang="ts">
+const route = useRoute()
+const { data: page } = await useAsyncData(route.path, () => {
+  return queryCollection('content').path(route.path).first()
+})
+</script>

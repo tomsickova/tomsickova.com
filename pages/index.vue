@@ -1,7 +1,9 @@
 <template>
   <div>
     <div style="min-height: 25vh">
-      <ContentDoc
+      <ContentRenderer
+        v-if="page"
+        :value="page"
         class="t-padding font-serif text-3xl lg:text-5xl text-center leading-tight max-w-4xl mx-auto"
       />
     </div>
@@ -20,14 +22,18 @@
 </template>
 
 <script setup lang="ts">
-import { Autoplay } from 'swiper'
+import { Autoplay } from 'swiper/modules'
 import { Swiper, SwiperSlide } from 'swiper/vue'
 import 'swiper/css'
-import 'swiper/css/autoplay'
+
+const route = useRoute()
+const { data: page } = await useAsyncData(route.path, () => {
+  return queryCollection('content').path(route.path).first()
+})
 
 const images = Object.values(
   import.meta.glob('~/assets/images/homepage/*.jpg', { eager: true })
-).map((v) => v.default)
+).map((v: any) => v.default)
 </script>
 
 <style lang="postcss" scoped>

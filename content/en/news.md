@@ -15,4 +15,4 @@ This year christmas decors are ready. Recommendet colors for the clothing - whit
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session. 
 🎄LOOKING FORWARD SEEING YOU!
 
-## [**Book your christmas photo session**](/contact) 
+## [**Book your christmas photo session**](/en/contact) 
