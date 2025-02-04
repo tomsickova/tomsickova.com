@@ -3,7 +3,7 @@ title: 'News'
 description: ''
 ---
 
-EASTER PHOTOSESSIONS IN STUDIO
+*EASTER PHOTOSESSIONS IN STUDIO*
 
 Inforrmation about Easeter photosessions
 This year easter decors are ready. Recommended colors for the clothing - white, beige, pink, purple, blue. I have prepared for you one big scene and one small for the kids. The easter photosessions will start on the 17. 2. a will end on the 5. 4. 2025.
