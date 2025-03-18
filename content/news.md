@@ -2,15 +2,15 @@ Aktuálně
 ---
 
 
-🐣🐥 VELIKONOCE 2025 🐣🐥
+🐣🐥 FOCENÍ S KUŘATKAMA 2025 🐣🐥
 
- Info k vánočnímu focení
+ Info k focení s kuřatky
  
-🌼💐🌞 Letošní velikonoční focení je už připravené! 🌼💐🌞
+🐣🐣🐣🐣🐣 Letošní focení s kuřatky je už tu! 🐣🐣🐣🐣🐣
 
 Doporučené barvy oblečení – bílá, modrá, žlutá, ružová, bežová, fialová.
 
-Fotografování s velikonční tematikou začíná 17. 2. a budu fotit do 5. 4. 2025.
+Fotografování s velikonční tematikou začíná 26. 3. a budu fotit do 2. 4. 2025.
 
   🐥 Balíček Velikonoce 🐥 **5 retušovaných fotografií** v elektronické podobě 🐥 **1500,- Kč**
   
@@ -20,7 +20,7 @@ Fotografování s velikonční tematikou začíná 17. 2. a budu fotit do 5. 4. 
   
   🐥 Příplatek za víkendové focení a svátky - 200,-Kč
 
-  🐥 Vhodné pro děti, rodinu a páry. 
+  🐥 Vhodné pro děti a rodin.
 
   🐥 Neupravené fotografie neposkytují.
   
@@ -29,9 +29,9 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 🐥TEŠIM SE NA VÁS
 
-Rezervační systém na Vánoční focení
+Rezervační systém na focení s kuřatky
 
-https://calendly.com/t-tomsickova/velikonoce 
+https://calendly.com/t-tomsickova/kuratka
 
  
 ## [**Objednat se na focení**](/contact) 
