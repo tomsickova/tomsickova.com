@@ -8,7 +8,9 @@ Zvu Vás na speciální mini focení MÁMA A JÁ, které proběhne o víkendu 15
 🗓 Dostupné termíny:
 
 Čtvrtet 15. 5. – 17:00 – 17:20 – 17:40
+
 Pátek 16. 5. – 17:00 – 17:20 – 17:40
+
 Sobota 17. 5.
 – 17:00
 – 17:20
