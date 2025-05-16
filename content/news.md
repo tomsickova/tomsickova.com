@@ -1,6 +1,7 @@
 
 
 📸 Focení MÁMA A JÁ 📸
+
 Zvu Vás na speciální mini focení MÁMA A JÁ, které proběhne o víkendu 15.–18. 5. v krásném prostředí parku. Zachyťte kouzelné chvíle se svými nejmenšími a odnesete si vzpomínky, které vás budou těšit celý život. 🌿💛
 
 🗓 Dostupné termíny:
