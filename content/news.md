@@ -1,4 +1,4 @@
-![TOM_7835](https://github.com/user-attachments/assets/849685db-0a0a-48a8-abae-d6c7a3544f96)Aktuálně
+
 ---
 
 
