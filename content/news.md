@@ -1,4 +1,4 @@
-Aktuálně
+![TOM_7835](https://github.com/user-attachments/assets/849685db-0a0a-48a8-abae-d6c7a3544f96)Aktuálně
 ---
 
 
@@ -7,10 +7,6 @@ Zvu Vás na speciální mini focení MÁMA A JÁ, které proběhne o víkendu 15
 
 🗓 Dostupné termíny:
 
-Čtvrtet 15. 5. – 17:00 – 17:20 – 17:40
-
-Pátek 16. 5. – 17:00 – 17:20 – 17:40
-
 Sobota 17. 5.
 – 17:00
 – 17:20
@@ -18,17 +14,21 @@ Sobota 17. 5.
 – 18:00
 
 Neděle 18. 5.
-– 17:00
 – 17:20
-– 17:40
-– 18:00
 
 📍 Místo: park (přesná lokalita bude upřesněna při rezervaci)
 📌 Rezervace nutná – počet míst je omezen!
 
+📸 Jahůdkové focení 📸
+
+Termíny: 
+
+Uterý: 18:00, 18:20, 18:40, 19:00
+Středa: 18:00, 18:20, 18:40, 19:00
+
 Neváhejte a dopřejte si společný čas, který zůstane uchován nejen v paměti, ale i na krásných fotografiích.
 
-  🌿💛 Balíček Máma a Ja 🌿💛 **5 retušovaných fotografií** v elektronické podobě 🌿💛 **1500,- Kč**
+  🌿💛 Balíček Máma a Ja a Balíček Jahody 🌿💛 **5 retušovaných fotografií** v elektronické podobě 🌿💛 **1500,- Kč**
   
   🌿💛 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografií k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
   
@@ -43,7 +43,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 🌿💛 TEŠIM SE NA VÁS
 
-Rezervační systém na focení
+Rezervační systém:
 
 https://calendly.com/t-tomsickova/mamaaja
 
