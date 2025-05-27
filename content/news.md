@@ -1,40 +1,46 @@
 
 
-📸 Focení MÁMA A JÁ 📸
+📸 Melounové focení 📸
 
-Zvu Vás na speciální mini focení MÁMA A JÁ, které proběhne o víkendu 15.–18. 5. v krásném prostředí parku. Zachyťte kouzelné chvíle se svými nejmenšími a odnesete si vzpomínky, které vás budou těšit celý život. 🌿💛
+Zvu Vás na mini focení s melounem, které proběhne o ve dnech 11.–13. 6. v krásném prostředí parku. Zachyťte kouzelné chvíle se svými nejmenšími a odnesete si vzpomínky, které vás budou těšit celý život. 🌿💛
 
-🗓 Dostupné termíny:
+📸 Melounové focení 📸
 
-Sobota 17. 5.
+Termíny: 
+
+Středa 11. 6.
 – 17:00
 – 17:20
 – 17:40
 – 18:00
+– 18:20
+– 18:40
 
-Neděle 18. 5.
+Čtvrték 12. 6.
+– 17:00
 – 17:20
+– 17:40
+– 18:00
+– 18:20
+– 18:40
 
-📍 Místo: park (přesná lokalita bude upřesněna při rezervaci)
-📌 Rezervace nutná – počet míst je omezen!
-
-📸 Jahůdkové focení 📸
-
-Termíny: 
-
-Uterý: 18:00, 18:20, 18:40, 19:00
-
-Středa: 18:00, 18:20, 18:40, 19:00
+Pátek 13. 6.
+– 17:00
+– 17:20
+– 17:40
+– 18:00
+– 18:20
+– 18:40
 
 Neváhejte a dopřejte si společný čas, který zůstane uchován nejen v paměti, ale i na krásných fotografiích.
 
-  🌿💛 Balíček Máma a Ja a Balíček Jahody 🌿💛 **5 retušovaných fotografií** v elektronické podobě 🌿💛 **1500,- Kč**
+  🌿💛 Balíček melounové focení 🌿💛 **5 retušovaných fotografií** v elektronické podobě 🌿💛 **1500,- Kč**
   
   🌿💛 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografií k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
   
   🌿💛 Vlastní výběr z náhledového alba.
   
-  🌿💛 Vhodné pro rodiny.
+  🌿💛 Vhodné pro děti a rodiny.
 
   🌿💛 Neupravené fotografie neposkytují.
   
@@ -45,7 +51,7 @@ K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervač
 
 Rezervační systém:
 
-https://calendly.com/t-tomsickova/mamaaja
+https://calendly.com/t-tomsickova/
 
  
 ## [**Objednat se na focení**](/contact) 
