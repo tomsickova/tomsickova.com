@@ -1,57 +1,53 @@
 
+🎄🎄🎄VÁNOČNÍ FOCENÍ je už připravené! 🎄🎄🎄
 
-📸 Melounové focení 📸
+Letos budu vánoční focení nabízet opět od konce října do 20. 12.
 
-Zvu Vás na mini focení s melounem, které proběhne o ve dnech 11.–13. 6. v krásném prostředí parku. Zachyťte kouzelné chvíle se svými nejmenšími a odnesete si vzpomínky, které vás budou těšit celý život. 🌿💛
+Na letošní focení si nechávám dostatek času – každá rodina bude mít 45 minut na převlečení, přípravu i samotné focení v klidu.
 
-📸 Melounové focení 📸
+⭐️ Pro změnu jsem letos připravila 2 balíčky: ⭐️
 
-Termíny: 
+1. MINI – 30 minut focení / 6 fotografií v elektronické podobě – 2 000 Kč
 
-Středa 11. 6.
-– 17:00
-– 17:20
-– 17:40
-– 18:00
-– 18:20
-– 18:40
+využití 2–3 scén, vhodné pro celou rodinu
 
-Čtvrték 12. 6.
-– 17:00
-– 17:20
-– 17:40
-– 18:00
-– 18:20
-– 18:40
+každá další fotografie nad rámec balíčku – 250 Kč
 
-Pátek 13. 6.
-– 17:00
-– 17:20
-– 17:40
-– 18:00
-– 18:20
-– 18:40
+2. STANDARD – 45 minut focení / 10 fotografií v elektronické podobě – 2 600 Kč
 
-Neváhejte a dopřejte si společný čas, který zůstane uchován nejen v paměti, ale i na krásných fotografiích.
+využití všech scén
 
-  🌿💛 Balíček melounové focení 🌿💛 **5 retušovaných fotografií** v elektronické podobě 🌿💛 **1500,- Kč**
+každá další fotografie nad rámec balíčku – 250 Kč
+
+🎄🎄🎄Letošní scény jsou tři:🎄🎄🎄
+
+Obývák s krbem
+
+Postel ve světlých barvách
+
+Venkovní scéna před domem, laděná do červena
+
+🎄Oblečení: 🎄
+
+Doporučuji volit barvy: bílá, červená, zelená, zlatá, béžová.
+Svetříky a vánoční motivy jsou vítané. 🎄
+
+🎄Rezervace: 🎄
+
+Rezervační systém opět poběží přes Calendly.
+Po vytvoření rezervace je potřeba uhradit zálohu 500 Kč, a to do 3 dnů od rezervace.
+Záloha je nevratná. Tato záloha bude odečtena s celkové ceny Vámi vybraného balíčku. Pokud budete muset foceni zrušit, nabídnu Vám jiny náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na tento nedostavíte, záloha Vám bohužel propadá. Zbývající částka za focení je splatná v hotovosti nejpozději v den focení.
+
+
+👉 Rezervace termínu přes Calendly
+
+https://calendly.com/t-tomsickova/vanoce
+
+✨ Na všechny se už moc těším! ✨
+
   
-  🌿💛 Nad rámec balíčků si můžete vybrat libovolný počet dalších fotografií k úpravám, fotografie navíc stojí 250 kč. Tištěné papírové fotky nejsou součástí balíčku.
-  
-  🌿💛 Vlastní výběr z náhledového alba.
-  
-  🌿💛 Vhodné pro děti a rodiny.
 
-  🌿💛 Neupravené fotografie neposkytují.
-  
 
-K závaznému objednání a potvrzení termínu dojde až po uhrazení rezervačního poplatku (zálohy), který činí 500 Kč, zaplatíte bankovním převodem, variabilní symbol vám přidělím. Tato záloha bude odečtena s celkové ceny Vámi vybraného balíčku. Pokud budete muset foceni zrušit, nabídnu Vám jiny náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na tento nedostavíte, záloha Vám bohužel propadá. Zbývající částka za focení je splatná v hotovosti nejpozději v den focení.
-
-🌿💛 TEŠIM SE NA VÁS
-
-Rezervační systém:
-
-https://calendly.com/t-tomsickova/
 
  
 ## [**Objednat se na focení**](/contact) 
