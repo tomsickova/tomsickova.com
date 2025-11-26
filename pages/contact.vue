@@ -3,7 +3,7 @@
     id="fs-frm"
     name="message-form"
     accept-charset="utf-8"
-    action="https://formspree.io/f/t.tomsickova@seznam.cz"
+    action="https://formspree.io/f/xwpjgdrj"
     method="post"
     class="max-w-md mx-auto"
   >
