@@ -9,13 +9,13 @@ Na letošní focení si nechávám dostatek času – každá rodina bude mít 4
 
 ⭐️ Pro změnu jsem letos připravila 2 balíčky: ⭐️
 
-1. MINI – 30 minut focení / 6 fotografií v elektronické podobě – 2 000 Kč
+1. MINI – až 30 minut na celkové na rodinu / 6 fotografií v elektronické podobě – 2 000 Kč
 
 využití 2–3 scén, vhodné pro celou rodinu
 
 každá další fotografie nad rámec balíčku – 250 Kč
 
-2. STANDARD – 45 minut focení / 10 fotografií v elektronické podobě – 2 600 Kč
+2. STANDARD – až 45 minut celkoé na rodinu / 10 fotografií v elektronické podobě – 2 600 Kč
 
 využití všech scén
 
