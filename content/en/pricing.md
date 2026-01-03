@@ -31,7 +31,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 >
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors. There is a requirement for choosing  STANDARD package.
 
-## MINI Package– 2.500,- Kč
+## MINI Package– 2.600,- Kč
 
 10 ks retouched pictures in digital files.
 
@@ -45,7 +45,7 @@ Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-## STANDARD Package– 4.500,- Kč
+## STANDARD Package– 4.600,- Kč
 
 20 ks retouched pictures in digital files.
 
@@ -63,7 +63,7 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors.
 
-## MINI Package– 3.500,- Kč
+## MINI Package– 3.600,- Kč
 
 15 ks retouched pictures in digital files.
 
@@ -77,7 +77,7 @@ Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-## STANDARD Package– 4.500,- Kč
+## STANDARD Package– 4.600,- Kč
 
 20 ks retouched pictures in digital files.
 
@@ -105,4 +105,4 @@ Pictures will be ready 21 days after you send me your choice. I keep my right to
 
 More information you can find here [terms and conditions](/en/policy).  By ordering my services you automatically accept my terms and conditions.
 
-_Price valid from 1.1.2024_
+_Price valid from 1.1.2026_
