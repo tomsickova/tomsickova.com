@@ -1,36 +1,21 @@
-🎄🎄🎄VÁNOČNÍ FOCENÍ je už připravené! 🎄🎄🎄
+❤️❤️❤️ VALENTÝNSKÉ FOCENÍ JE PŘIPRAVENO! ❤️❤️❤️
 
-Letos budu vánoční focení nabízet opět od konce října do 20. 12.
+Letos jsem připravila jednoduchou, jemnou a nadčasovou scénu, kde vyniknou emoce, osobnost i přirozená krása ❤️
 
-Na letošní focení si nechávám dostatek času – každá rodina bude mít 45 minut na převlečení, přípravu i samotné focení v klidu.
+Každá rodina / pár / dítě má dostatek času — až 30 minut focení v klidu a pohodě 🤍
 
-⭐️ Pro změnu jsem letos připravila 2 balíčky: ⭐️
+🎁 BALÍČEK MINI
+– až 30 minut focení
+– 6 fotografií v elektronické podobě
+– cena: 2 000 Kč
+– každá další fotografie: 250 Kč
+- připlatek za víkend 200 Kč
 
-1. MINI – až 30 minut na celkové na rodinu / 6 fotografií v elektronické podobě – 2 000 Kč
+🤍 Scéna:
+Jedna elegantní valentýnská scéna
 
-využití 2–3 scén, vhodné pro celou rodinu
-
-každá další fotografie nad rámec balíčku – 250 Kč
-
-2. STANDARD – až 45 minut celkoé na rodinu / 10 fotografií v elektronické podobě – 2 600 Kč
-
-využití všech scén
-
-každá další fotografie nad rámec balíčku – 250 Kč
-
-
-🎄🎄🎄Letošní scény jsou tři:🎄🎄🎄
-
-Obývák s krbem
-
-Postel ve světlých barvách
-
-Venkovní scéna před domem, laděná do červena
-
-🎄Oblečení: 🎄
-
-Doporučuji volit barvy: bílá, červená, zelená, zlatá, béžová.
-Svetříky a vánoční motivy jsou vítané. 🎄
+👗 Oblečení:
+Doporučuji světlé tóny — bílá, béžová, krémová, pastelové barvy 🤍
 
 🎄Rezervace: 🎄
 
@@ -41,7 +26,7 @@ Záloha je nevratná. Tato záloha bude odečtena s celkové ceny Vámi vybrané
 
 👉 Rezervace termínu přes Calendly
 
-https://calendly.com/t-tomsickova/vanoce
+https://calendly.com/t-tomsickova/valentin
 
 ✨ Na všechny se už moc těším! ✨
 
