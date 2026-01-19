@@ -1,48 +1,30 @@
 
----
+❤️❤️❤️ VALENTINE’S DAY PHOTOSHOOT IS READY! ❤️❤️❤️
 
-🎄🎄🎄VÁNOČNÍ FOCENÍ je už připravené! 🎄🎄🎄
+This year I have prepared a simple, soft and timeless setup where emotions, personality and natural beauty truly stand out ❤️
 
-Letos budu vánoční focení nabízet opět od konce října do 20. 12.
+Each family / couple / child will have plenty of time — up to 30 minutes of relaxed and comfortable shooting 🤍
 
-Na letošní focení si nechávám dostatek času – každá rodina bude mít 45 minut na převlečení, přípravu i samotné focení v klidu.
+🎁 MINI PACKAGE
+– up to 30 minutes session
+– 6 edited digital photos
+– price: 2,000 CZK
+– each additional photo: 250 CZK
 
-⭐️ Pro změnu jsem letos připravila 2 balíčky: ⭐️
+Weekend surcharge: 200 CZK
 
-1. MINI – až 30 minut na celkové na rodinu / 6 fotografií v elektronické podobě – 2 000 Kč
+🤍 Scene:
+One elegant Valentine’s setup
 
-využití 2–3 scén, vhodné pro celou rodinu
+👗 Outfits:
+I recommend light tones — white, beige, cream and pastel colors 🤍
 
-každá další fotografie nad rámec balíčku – 250 Kč
+🎄 Booking: 🎄
 
-2. STANDARD – až 45 minut celkoé na rodinu / 10 fotografií v elektronické podobě – 2 600 Kč
+Reservations will again run through Calendly. After booking, a deposit of 500 CZK must be paid within 3 days. The deposit is non-refundable and will be deducted from the total package price.
+If you need to cancel, I will offer you an alternative date that suits both parties. If you do not attend the rescheduled session, the deposit will be forfeited. The remaining balance is payable in cash no later than the day of the photoshoot.
 
-využití všech scén
+👉 Book your session via Calendly:
+https://calendly.com/t-tomsickova/valentin
 
-každá další fotografie nad rámec balíčku – 250 Kč
-
-🎄🎄🎄Letošní scény jsou tři:🎄🎄🎄
-
-Obývák s krbem
-
-Postel ve světlých barvách
-
-Venkovní scéna před domem, laděná do červena
-
-🎄Oblečení: 🎄
-
-Doporučuji volit barvy: bílá, červená, zelená, zlatá, béžová.
-Svetříky a vánoční motivy jsou vítané. 🎄
-
-🎄Rezervace: 🎄
-
-Rezervační systém opět poběží přes Calendly.
-Po vytvoření rezervace je potřeba uhradit zálohu 500 Kč, a to do 3 dnů od rezervace.
-Záloha je nevratná. Tato záloha bude odečtena s celkové ceny Vámi vybraného balíčku. Pokud budete muset foceni zrušit, nabídnu Vám jiny náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na tento nedostavíte, záloha Vám bohužel propadá. Zbývající částka za focení je splatná v hotovosti nejpozději v den focení.
-
-
-👉 Rezervace termínu přes Calendly
-
-https://calendly.com/t-tomsickova/vanoce
-
-✨ Na všechny se už moc těším! ✨
+✨ I can’t wait to see you all! ✨
