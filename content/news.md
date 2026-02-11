@@ -12,7 +12,9 @@ Rezervační systém je již otevřený a své termíny si můžete zamluvit co 
 https://calendly.com/t-tomsickova/foceni
 
 👗 Oblečení:
-Doporučuji světlé tóny — bílá, béžová, krémová, pastelové barvy 🤍
+Doporučuji světlé tóny. Prosím, volte bílou, béžovou, růžovou, světle modrou, krémovou, hnědou nebo zelenou. Celkově se hodí většina barev, pouze prosím oblečení bez velkých nápisů či potisků — ideálně jednobarevné.
+
+Vhodné jsou například šaty, košile, kalhoty a tričko s límečkem.— bílá, béžová, krémová, pastelové barvy 🤍
 
 🎄Rezervace: 🎄
 
