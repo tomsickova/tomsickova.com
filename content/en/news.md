@@ -1,30 +1,28 @@
 
-❤️❤️❤️ VALENTINE’S DAY PHOTOSHOOT IS READY! ❤️❤️❤️
+I am preparing a studio photoshoot with ducklings — if everything goes as planned, the sessions will take place from March 13, 2026 to March 24, 2026.
+The booking system is already open, so feel free to reserve your spot as soon as possible — availability is limited.
 
-This year I have prepared a simple, soft and timeless setup where emotions, personality and natural beauty truly stand out ❤️
+🐥 Package includes 5 photos
+🐥 Price: 1,500 CZK
+🐥 Additional photo: 250 CZK each
+🐥 Weekend surcharge: 200 CZK
+🐥 Deposit: 500 CZK
 
-Each family / couple / child will have plenty of time — up to 30 minutes of relaxed and comfortable shooting 🤍
+⏱ Session length: 20 minutes (30-minute booking slots — please arrive on time)
 
-🎁 MINI PACKAGE
-– up to 30 minutes session
-– 6 edited digital photos
-– price: 2,000 CZK
-– each additional photo: 250 CZK
+🔗 Booking link:
+https://calendly.com/t-tomsickova/foceni
 
-Weekend surcharge: 200 CZK
+👗 Clothing:
+I recommend light tones — white, beige, pink, light blue, cream, brown, or green. Most colors work well, just please avoid large logos or prints — solid colors are best.
 
-🤍 Scene:
-One elegant Valentine’s setup
+Suitable outfits include dresses, shirts, trousers, and polo shirts — white, beige, cream, and pastel shades 🤍
 
-👗 Outfits:
-I recommend light tones — white, beige, cream and pastel colors 🤍
+🎄 Booking 🎄
 
-🎄 Booking: 🎄
-
-Reservations will again run through Calendly. After booking, a deposit of 500 CZK must be paid within 3 days. The deposit is non-refundable and will be deducted from the total package price.
-If you need to cancel, I will offer you an alternative date that suits both parties. If you do not attend the rescheduled session, the deposit will be forfeited. The remaining balance is payable in cash no later than the day of the photoshoot.
+Reservations are handled via Calendly. After booking, a 500 CZK deposit must be paid within 3 days. The deposit is non-refundable and will be deducted from the total package price. If you need to cancel, I will offer you an alternative date that suits both sides. If you do not attend the rescheduled session, the deposit will unfortunately be forfeited. The remaining balance is payable in cash no later than the day of the shoot.
 
 👉 Book your session via Calendly:
-https://calendly.com/t-tomsickova/valentin
+https://calendly.com/t-tomsickova/foceni
 
 ✨ I can’t wait to see you all! ✨
