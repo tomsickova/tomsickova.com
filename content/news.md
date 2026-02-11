@@ -1,18 +1,15 @@
-❤️❤️❤️ VALENTÝNSKÉ FOCENÍ JE PŘIPRAVENO! ❤️❤️❤️
+Připravuji ateliérové focení s kačenkami — pokud vše klapne, focení bude probíhat od 13. 3. 2026 do 24. 3. 2026. 
+Rezervační systém je již otevřený a své termíny si můžete zamluvit co nejdříve.  Termíny jsou omezene.
 
-Letos jsem připravila jednoduchou, jemnou a nadčasovou scénu, kde vyniknou emoce, osobnost i přirozená krása ❤️
+🐥 Balíček obsahuje 5 fotografií
+🐥 Cena: 1 500 Kč
+🐥 Fotografie nad rámec balíčku: 250 Kč/ks  
+🐥 Príplatek za víkend - 200 kč
+🐥 Záloha - 500 kč
 
-Každá rodina / pár / dítě má dostatek času — až 30 minut focení v klidu a pohodě 🤍
-
-🎁 BALÍČEK MINI
-– až 30 minut focení
-– 6 fotografií v elektronické podobě
-– cena: 2 000 Kč
-– každá další fotografie: 250 Kč
-- připlatek za víkend 200 Kč
-
-🤍 Scéna:
-Jedna elegantní valentýnská scéna
+⏱ Délka focení: 20 minut (rezervace po 30 minutách – prosím o přesnost příchodu)
+🔗 Odkaz na rezervační systém:
+https://calendly.com/t-tomsickova/foceni
 
 👗 Oblečení:
 Doporučuji světlé tóny — bílá, béžová, krémová, pastelové barvy 🤍
@@ -26,7 +23,7 @@ Záloha je nevratná. Tato záloha bude odečtena s celkové ceny Vámi vybrané
 
 👉 Rezervace termínu přes Calendly
 
-https://calendly.com/t-tomsickova/valentin
+https://calendly.com/t-tomsickova/foceni
 
 ✨ Na všechny se už moc těším! ✨
 
