@@ -1,13 +1,19 @@
-Připravuji ateliérové focení s kačenkami — pokud vše klapne, focení bude probíhat od 13. 3. 2026 do 24. 3. 2026. 
+Připravuji **ateliérové focení s kačenkami** — pokud vše klapne, focení bude probíhat od **13. 3. 2026 do 24. 3. 2026. **
+
 Rezervační systém je již otevřený a své termíny si můžete zamluvit co nejdříve.  Termíny jsou omezene.
 
 🐥 Balíček obsahuje 5 fotografií
+
 🐥 Cena: 1 500 Kč
+
 🐥 Fotografie nad rámec balíčku: 250 Kč/ks  
+
 🐥 Príplatek za víkend - 200 kč
+
 🐥 Záloha - 500 kč
 
 ⏱ Délka focení: 20 minut (rezervace po 30 minutách – prosím o přesnost příchodu)
+
 🔗 Odkaz na rezervační systém:
 https://calendly.com/t-tomsickova/foceni
 
