@@ -1,5 +1,5 @@
 
-I am preparing a studio photoshoot with ducklings — if everything goes as planned, the sessions will take place from March 13, 2026 to March 24, 2026.
+I am preparing a studio and outdoor photoshoot with ducklings — if everything goes as planned, the sessions will take place from April 13, 2026 to April 26, 2026.
 The booking system is already open, so feel free to reserve your spot as soon as possible — availability is limited.
 
 🐥 Package includes 5 photos
@@ -11,7 +11,7 @@ The booking system is already open, so feel free to reserve your spot as soon as
 ⏱ Session length: 20 minutes (30-minute booking slots — please arrive on time)
 
 🔗 Booking link:
-https://calendly.com/t-tomsickova/foceni
+https://calendly.com/t-tomsickova
 
 👗 Clothing:
 I recommend light tones — white, beige, pink, light blue, cream, brown, or green. Most colors work well, just please avoid large logos or prints — solid colors are best.
