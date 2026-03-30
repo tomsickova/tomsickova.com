@@ -1,4 +1,4 @@
-Připravuji **ateliérové focení s kačenkami** — pokud vše klapne, focení bude probíhat od **13. 3. 2026 do 24. 3. 2026. **
+Připravuji **ateliérové a exteriérove focení s kachňatky** — focení bude probíhat od **13. 4. 2026 do 26. 4. 2026. **
 
 Rezervační systém je již otevřený a své termíny si můžete zamluvit co nejdříve.  Termíny jsou omezene.
 
@@ -15,7 +15,7 @@ Rezervační systém je již otevřený a své termíny si můžete zamluvit co 
 ⏱ Délka focení: 20 minut (rezervace po 30 minutách – prosím o přesnost příchodu)
 
 🔗 Odkaz na rezervační systém:
-https://calendly.com/t-tomsickova/foceni
+https://calendly.com/t-tomsickova
 
 👗 Oblečení:
 Doporučuji světlé tóny. Prosím, volte bílou, béžovou, růžovou, světle modrou, krémovou, hnědou nebo zelenou. Celkově se hodí většina barev, pouze prosím oblečení bez velkých nápisů či potisků — ideálně jednobarevné.
