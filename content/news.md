@@ -8,7 +8,7 @@ Rezervační systém je již otevřený a své termíny si můžete zamluvit co 
 
 🐥 Fotografie nad rámec balíčku: 250 Kč/ks  
 
-🐥 Príplatek za víkend - 200 kč
+🐥 Príplatek za víkend a svátek - 200 kč
 
 🐥 Záloha - 500 kč
 
