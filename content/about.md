@@ -14,3 +14,6 @@ Pokud se vám moje práce líbí a měli byste zajem o nafocení svých dětí, 
 Využijte fotografie jako jedinečný dárek - uvidíte, že opravdu vydařené fotky Vašich dětí potěší celou rodinu víc než jakýkoliv jiný dárek.
 
 Každý si zaslouží krasné fotografie.
+
+Recenze: 
+https://share.google/o4ljt0YjXROWe1XwP
