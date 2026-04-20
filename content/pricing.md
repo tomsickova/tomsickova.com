@@ -43,7 +43,7 @@ description: ''
 
 Každá další fotografie nad rámec balíčku 250,- Kč.
 
-Příplatek za víkendové focení 200,-Kč
+Příplatek za víkendové focení a svátek 200,-Kč
 
 Neupravené fotografie neposkytují.
 
