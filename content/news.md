@@ -1,6 +1,20 @@
-Připravuji **ateliérové a exteriérove focení s kachňatky** — focení bude probíhat od **13. 4. 2026 do 26. 4. 2026. **
+🌷 Speciální focení „Máma a já“ 🌷
 
-Rezervační systém je již otevřený a své termíny si můžete zamluvit co nejdříve.  Termíny jsou omezene.
+Milé maminky, připravila jsem pro vás něžné a krásné focení Máma a já – plné lásky, objetí a společných okamžiků, které vám zůstanou navždy 💛
+
+📸 Možnost focení:
+
+✨ V ateliéru – v dopoledních hodinách
+Jemné, krásne fotografie v příjemném prostředí.
+
+🌿 Venku v přírodě – v odpoledních hodinách
+Kouzelná atmosféra, přirozené světlo a krásné jarní prostředí.
+
+💛 Dopřejte si společnou vzpomínku se svými dětmi, kterou si budete jednou s láskou připomínat.
+
+V případě zájmu si mužete zarezervovat termín zde:
+
+https://calendly.com/t-tomsickova/foceni
 
 🐥 Balíček obsahuje 5 fotografií
 
