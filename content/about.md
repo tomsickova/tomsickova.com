@@ -18,6 +18,3 @@ Každý si zaslouží krasné fotografie.
 Recenze: 
 https://share.google/o4ljt0YjXROWe1XwP
 
-Taťana Tomšíčková
-IČO: 76229882
-DIČ: CZ8255261927
