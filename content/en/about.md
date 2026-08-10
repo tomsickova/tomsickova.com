@@ -13,6 +13,3 @@ If you would like to have pictures taken by me, you can send me an email and we 
 
 Everyone deserves to have perfect pictures. So don't hesitate and call in order to capture some happy moments of your life or the life of your precious kids and to have beautiful memories for life!
 
-Taťana Tomšíčková
-IČO: 76229882
-DIČ: CZ8255261927
