@@ -2,7 +2,7 @@
   <footer class="flex items-center justify-center t-padding">
     <div class="t-width w-full grid grid-cols-3 gap-5 md:gap-0 text-center">
       <div class="md:text-left col-span-3 md:col-span-1">
-        <p>Tatyana Tomšíčková</p>
+        <p>Taťana Tomšíčková</p>
         <p>Praha 5 - Reporyje, 155 00</p>
         <p>+420774002703</p>
         <p>t.tomsickova@seznam.cz</p>
@@ -22,7 +22,7 @@
       </div>
 
       <div class="md:text-right col-span-3 md:col-span-1">
-        &copy; {{ new Date().getFullYear() }} Tatyana Tomšíčková
+        &copy; {{ new Date().getFullYear() }} Taťana Tomšíčková
         <br />
         <nuxt-link :to="localePath('/policy')" class="underline whitespace-nowrap">
           {{ $t('footer.terms') }}
