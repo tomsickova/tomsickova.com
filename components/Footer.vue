@@ -6,6 +6,7 @@
         <p>Praha 5 - Reporyje, 155 00</p>
         <p>+420774002703</p>
         <p>t.tomsickova@seznam.cz</p>
+        <p>IČO: 76229882, DIČ: CZ8255261927</p> 
       </div>
 
       <div class="flex justify-center space-x-1 col-span-3 md:col-span-1">
