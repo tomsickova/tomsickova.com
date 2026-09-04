@@ -1,56 +1,62 @@
-🌷 Speciální focení „Máma a já“ 🌷
+🎄✨ VÁNOČNÍ FOCENÍ ✨🎄
 
-Milé maminky, připravila jsem pro vás něžné a krásné focení Máma a já – plné lásky, objetí a společných okamžiků, které vám zůstanou navždy 💛
+Připravila jsem pro vás kouzelné vánoční focení plné lásky, smíchu, objetí a společných okamžiků, které vám zůstanou navždy. 🤍
 
-📸 Možnost focení:
+🎄 Přijďte si užít společný čas a nechte si vytvořit krásné vánoční vzpomínky, ke kterým se budete každý rok s láskou vracet.
 
-✨ V ateliéru – v dopoledních hodinách
-Jemné, krásne fotografie v příjemném prostředí.
+📸 Focení probíhá v ateliéru 
 
-🌿 Venku v přírodě – v odpoledních hodinách
-Kouzelná atmosféra, přirozené světlo a krásné jarní prostředí.
+Čeká vás příjemné a útulné prostředí s krásnou vánoční atmosférou, ve kterém společně vytvoříme přirozené a něžné fotografie celé rodiny. ✨
 
-💛 Dopřejte si společnou vzpomínku se svými dětmi, kterou si budete jednou s láskou připomínat.
+Focení je vhodné pro děti, pary, maminku s dětmi, tatínka s dětmi, oba rodiče s dětmi, sourozence i celou rodinu. 🤍
 
-V případě zájmu si mužete zarezervovat termín zde:
+🐥 Balíček obsahuje 10 fotografií
 
-https://calendly.com/t-tomsickova/foceni
+🐥 Cena: 2 800 Kč
 
-🐥 Balíček obsahuje 5 fotografií
+🐥 Fotografie nad rámec balíčku: 250 Kč/ks
 
-🐥 Cena: 1 500 Kč
+🐥 Příplatek za víkend a svátek: 200 Kč
 
-🐥 Fotografie nad rámec balíčku: 250 Kč/ks  
+🐥 Záloha: 500 Kč
 
-🐥 Príplatek za víkend a svátek - 200 kč
+⏱ Délka focení: 30-40 minut
+Rezervace probíhají po 45 minutách – prosím o přesnost příchodu.
 
-🐥 Záloha - 500 kč
+👗 OBLEČENÍ
 
-⏱ Délka focení: 20 minut (rezervace po 30 minutách – prosím o přesnost příchodu)
+Pro vánoční focení doporučuji světlé, jemné a elegantní barvy, které krásně doplní vánoční atmosféru. 🤍✨
 
-🔗 Odkaz na rezervační systém:
-https://calendly.com/t-tomsickova
+Nejlépe se hodí:
 
-👗 Oblečení:
-Doporučuji světlé tóny. Prosím, volte bílou, béžovou, růžovou, světle modrou, krémovou, hnědou nebo zelenou. Celkově se hodí většina barev, pouze prosím oblečení bez velkých nápisů či potisků — ideálně jednobarevné.
+🤍 bílá
+🤎 béžová
+🤍 krémová
+✨ zlatá
 
-Vhodné jsou například šaty, košile, kalhoty a tričko s límečkem.— bílá, béžová, krémová, pastelové barvy 🤍
+Ideální je oblečení bez velkých nápisů a výrazných potisků – nejlépe jednobarevné a vzájemně sladěné.
 
-🎄Rezervace: 🎄
+Krásně budou vypadat například šaty, košile, svetříky, kalhoty nebo jednoduchá trička s dlouhým rukávem. Nemusíte mít všichni stejné oblečení, stačí se držet podobných odstínů, aby celá rodina působila harmonicky. ✨
+
+🎄 REZERVACE 🎄
 
 Rezervační systém opět poběží přes Calendly.
-Po vytvoření rezervace je potřeba uhradit zálohu 500 Kč, a to do 3 dnů od rezervace.
-Záloha je nevratná. Tato záloha bude odečtena s celkové ceny Vámi vybraného balíčku. Pokud budete muset foceni zrušit, nabídnu Vám jiny náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na tento nedostavíte, záloha Vám bohužel propadá. Zbývající částka za focení je splatná v hotovosti nejpozději v den focení.
 
+Po vytvoření rezervace je potřeba uhradit zálohu 500 Kč do 3 dnů od rezervace.
 
-👉 Rezervace termínu přes Calendly
+Záloha je nevratná a bude odečtena z celkové ceny balíčku.
 
+Pokud budete muset focení zrušit, nabídnu Vám jiný náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na náhradní termín nedostavíte, záloha Vám bohužel propadá.
+
+Zbývající částka za focení je splatná v hotovosti nebo přes QR kodem nejpozději v den focení.
+
+👉 Rezervace termínu přes Calendly:
 https://calendly.com/t-tomsickova/foceni
 
-✨ Na všechny se už moc těším! ✨
+🎄✨ Už se na vás všechny moc těším! ✨🎄
 
+Pojďme společně vytvořit kouzelné vánoční vzpomínky, které vám zůstanou navždy. 🤍
   
-
 
 
  
