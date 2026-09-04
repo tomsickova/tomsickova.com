@@ -20,7 +20,8 @@ Focení je vhodné pro děti, pary, maminku s dětmi, tatínka s dětmi, oba rod
 
 🐥 Záloha: 500 Kč
 
-⏱ Délka focení: 30-40 minut
+⏱ Délka focení: 30-40 minut.
+
 Rezervace probíhají po 45 minutách – prosím o přesnost příchodu.
 
 👗 OBLEČENÍ
