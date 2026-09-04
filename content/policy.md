@@ -17,7 +17,7 @@ Objednáním služeb fotografa automaticky udělujete souhlas s pořízením fot
 
 Cena ateliérového a exteriérového focení je vždy splatná ihned po skončení fotografování v hotovosti.
 
-Příplatek za víkendové focení - 200,-Kč
+Příplatek za víkendové focení a svatky- 200,-Kč
 
 Pro potvrzeni termínu focení je potřeba uhradit zálohu ve vyší 500 kč,- Záloha je nevratná a bude odečtena od finální častky Vámi vybraného balíčku.
 
