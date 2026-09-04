@@ -5,19 +5,11 @@ description: ''
 
 # Packages:
 
-## NEWBORN Package – 4.000,- Kč
+## NEWBORN Package – 4.200,- Kč
 
 15 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 250,- Kč.
-
 This type of photo session last approximately 2-3 hours.
-
-Unretouched pictures are not available.
-
-Additional fee for weekend session - 200,-Kč.
-
-Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
 > Newborn photo session is one of the most famous photo session.
 >
@@ -31,31 +23,17 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 >
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors. There is a requirement for choosing  STANDARD package.
 
-## MINI Package– 2.600,- Kč
+## MINI Package– 2.800,- Kč
 
 10 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 250,- Kč.
-
 This type of photo session last approximately 30-40 minutes.
 
-Unretouched pictures are not available.
-
-Additional fee for weekend session - 200,-Kč.
-
-Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
-
-## STANDARD Package– 4.600,- Kč
+## STANDARD Package– 4.800,- Kč
 
 20 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 250,- Kč.
-
 This type of photo session last approximately 1-1,5 hour.
-
-Unretouched pictures are not available.
-
-Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
@@ -63,35 +41,31 @@ Advanced payment of 500 Kč is required in order to book your slot for the photo
 
 > Photographing outside the studio is available (there is additional fee for transport if the pictures are taken at your home or anywhere in Prague where you chose -500 Kč  or I can offer you a nice place for photoshooting outdoors.
 
-## MINI Package– 3.600,- Kč
+## MINI Package– 3.800,- Kč
 
 15 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 250,- Kč.
-
 This type of photo session last approximately 30-40 minutes.
-
-Unretouched pictures are not available.
-
-Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-## STANDARD Package– 4.600,- Kč
+## STANDARD Package– 4.800,- Kč
 
 20 ks retouched pictures in digital files.
 
-Additional retouched picture over the package - 250,- Kč.
-
 This type of photo session last approximately 1-1,5 hour.
-
-Unretouched pictures are not available.
-
-Additional fee for weekend session - 200,-Kč.
 
 Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
 
-# Information:
+# Important information:
+
+Additional retouched picture over the package - 250,- Kč.
+
+Additional fee for weekend session and holidays- 200,-Kč.
+
+Advanced payment of 500 Kč is required in order to book your slot for the photo session. The sum has to be paid by bank transfer after receiving an invoice from me, once we agree on a photo session time and date. The slot is confirmed only after received payment. This prepayment will be deducted from the final sum of the package. The rest of the sum is due on spot right after the photo session.
+
+Unretouched pictures are not available.
 
 Package price is based on the amount of pictures you decide to take.
 
@@ -105,4 +79,4 @@ Pictures will be ready 21 days after you send me your choice. I keep my right to
 
 More information you can find here [terms and conditions](/en/policy).  By ordering my services you automatically accept my terms and conditions.
 
-_Price valid from 1.1.2026_
+_Price valid from 1.9.2026_
