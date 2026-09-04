@@ -5,7 +5,7 @@ description: ''
 
 # Balíčky:
 
-## Balíček NOVOROZENCE – 4.000,- Kč
+## Balíček NOVOROZENCE – 4.200,- Kč
 
 15 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
