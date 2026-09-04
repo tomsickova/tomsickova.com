@@ -15,11 +15,11 @@ description: ''
 
 # **Foceni děti, rodinné a těhulky ateliér:**
 
-## Balíček MINI – 2.600,- Kč
+## Balíček MINI – 2.800,- Kč
 
 10 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
-## Balíček STANDARD – 4.600,- Kč
+## Balíček STANDARD – 4.800,- Kč
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
@@ -29,11 +29,11 @@ description: ''
 
 # **Foceni děti, rodinné a těhulky exteriér:**
 
-## Balíček MINI – 3.600,- Kč
+## Balíček MINI – 3.800,- Kč
 
 15 ks retušované fotografie. Fotografií obdržíte v digitální podobě.
 
-## Balíček STANDARD – 4.600,- Kč
+## Balíček STANDARD – 4.800,- Kč
 
 20 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
@@ -63,6 +63,6 @@ Doba vyhotovení a předání fotografií je 21 kalendářních dní. Vyhrazuji 
 
 Vice informace najdete v [obchodních podmínkách](/policy). Objednáním služeb fotografa je automaticky stvrzeno přijetí obchodních podmínek a srozumění s nimi.
 
-_Ceny jsou platné od 1.1.2026_
+_Ceny jsou platné od 1.9.2026_
 
 ## [**Objednat se na focení**](/contact) 
