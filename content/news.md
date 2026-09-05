@@ -10,15 +10,15 @@ Připravila jsem pro vás kouzelné vánoční focení plné lásky, smíchu, ob
 
 Focení je vhodné pro děti, pary, maminku s dětmi, tatínka s dětmi, oba rodiče s dětmi, sourozence i celou rodinu. 🤍
 
-🐥 Balíček obsahuje 10 fotografií
+🌲 Balíček obsahuje 10 fotografií
 
-🐥 Cena: 2 800 Kč
+🌲 Cena: 2 800 Kč
 
-🐥 Fotografie nad rámec balíčku: 250 Kč/ks
+🌲 Fotografie nad rámec balíčku: 250 Kč/ks
 
-🐥 Příplatek za víkend a svátek: 200 Kč
+🌲 Příplatek za víkend a svátek: 200 Kč
 
-🐥 Záloha: 500 Kč
+🌲 Záloha: 500 Kč
 
 ⏱ Délka focení: 30-40 minut.
 
