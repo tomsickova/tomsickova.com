@@ -51,8 +51,8 @@ Pokud budete muset focení zrušit, nabídnu Vám jiný náhradní termín, kter
 
 Zbývající částka za focení je splatná v hotovosti nebo přes QR kodem nejpozději v den focení.
 
-👉 Rezervace termínu přes Calendly:
-https://calendly.com/t-tomsickova/foceni
+👉 Rezervace termínu přes Evenilo:
+https://tomsickova.evenilo.cz/
 
 🎄✨ Už se na vás všechny moc těším! ✨🎄
 
