@@ -41,7 +41,7 @@ Krásně budou vypadat například šaty, košile, svetříky, kalhoty nebo jedn
 
 🎄 REZERVACE 🎄
 
-Rezervační systém opět poběží přes Calendly.
+Rezervační systém opět poběží přes Evenilo.
 
 Po vytvoření rezervace je potřeba uhradit zálohu 500 Kč do 3 dnů od rezervace.
 
