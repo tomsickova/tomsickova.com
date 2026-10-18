@@ -7,7 +7,7 @@ description: ''
 
 ## Balíček NOVOROZENCE – 4.200,- Kč
 
-15 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
+14 ks retušované fotografie. Fotografie obdržíte v digitální podobě.
 
 > Fotografování novorozeňátek a miminek patří bezpochyby k nejoblíbenějším!
 >
