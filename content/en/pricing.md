@@ -7,7 +7,7 @@ description: ''
 
 ## NEWBORN Package – 4.200,- Kč
 
-15 ks retouched pictures in digital files.
+14 ks retouched pictures in digital files.
 
 This type of photo session last approximately 2-3 hours.
 
