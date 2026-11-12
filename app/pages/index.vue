@@ -4,7 +4,7 @@
       <ContentRenderer
         v-if="page"
         :value="page"
-        class="t-padding font-serif text-3xl lg:text-5xl text-center leading-tight max-w-4xl mx-auto"
+        class="t-padding font-serif text-3xl lg:text-5xl text-center leading-tight lg:leading-none max-w-4xl mx-auto"
       />
     </div>
     <Swiper
@@ -14,7 +14,7 @@
         disableOnInteraction: false,
       }"
     >
-      <SwiperSlide v-for="image in images" :key="image" class="swiper-slide aspect-w-16 aspect-h-9">
+      <SwiperSlide v-for="image in images" :key="image" class="swiper-slide aspect-video">
         <img :src="image" />
       </SwiperSlide>
     </Swiper>

@@ -7,7 +7,7 @@ backend:
 
 site_url: https://tomsickova.com
 
-media_folder: /assets/images
+media_folder: /app/assets/images
 media_libraries:
   default:
     config:

@@ -1,8 +1,10 @@
 # tomsickova.com
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Look at the [Nuxt documentation](https://nuxt.com/docs) to learn more.
 
 ## Setup
+
+Use Node 24. The version is pinned in `.node-version`, which Render reads too.
 
 Make sure to install the dependencies:
 
@@ -41,9 +43,9 @@ The site has a CMS at https://tomsickova.com/admin/ ([Sveltia CMS](https://svelt
 | Page texts, Czech and English | Pages | `content/*.md`, `content/en/*.md` |
 | Footer contact details, social links, contact form address | Settings > Contact details | `data/site.json` |
 | Gallery names and order | Settings > Portfolio galleries | `data/galleries.json` |
-| Photos | Assets > Global Assets > folder | `assets/images/<folder>/` |
+| Photos | Assets > Global Assets > folder | `app/assets/images/<folder>/` |
 
-Photo folders, all under `assets/images/`:
+Photo folders, all under `app/assets/images/`:
 
 - `homepage/`: the homepage slideshow
 - `news/`: photos below the News text

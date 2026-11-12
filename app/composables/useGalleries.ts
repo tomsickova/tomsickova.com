@@ -1,4 +1,4 @@
-import data from '~/data/galleries.json'
+import data from '~~/data/galleries.json'
 
 const images = import.meta.glob<string>(
   '~/assets/images/portfolio/*/*.{jpg,jpeg,png,webp}',

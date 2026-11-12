@@ -17,7 +17,7 @@
           name="name"
           :placeholder="$t('contact.namePlaceholder')"
           required
-          class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+          class="mt-1 block w-full rounded-md border-gray-300 shadow-xs focus:border-indigo-300 focus:ring-3 focus:ring-indigo-200/50"
         />
       </label>
       <label for="email-address" class="block">
@@ -28,7 +28,7 @@
           name="_replyto"
           :placeholder="$t('contact.emailPlaceholder')"
           required
-          class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+          class="mt-1 block w-full rounded-md border-gray-300 shadow-xs focus:border-indigo-300 focus:ring-3 focus:ring-indigo-200/50"
         />
       </label>
       <label for="telephone" class="block">
@@ -38,7 +38,7 @@
           type="tel"
           name="telephone"
           placeholder="+420 123456789"
-          class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+          class="mt-1 block w-full rounded-md border-gray-300 shadow-xs focus:border-indigo-300 focus:ring-3 focus:ring-indigo-200/50"
         />
       </label>
       <label for="message" class="block">
@@ -50,7 +50,7 @@
           rows="6"
           name="message"
           required
-          class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+          class="mt-1 block w-full rounded-md border-gray-300 shadow-xs focus:border-indigo-300 focus:ring-3 focus:ring-indigo-200/50"
         ></textarea>
         <input
           id="email-subject"
@@ -63,13 +63,13 @@
     <input
       type="submit"
       :value="$t('contact.send')"
-      class="flex items-center justify-center w-full cursor-pointer transition-colors px-4 py-2 text-base font-medium leading-6 whitespace-no-wrap border border-gray-300 rounded-md shadow-sm bg-gray-600 text-gray-50 hover:bg-gray-700 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+      class="flex items-center justify-center w-full cursor-pointer transition-colors px-4 py-2 text-base font-medium leading-6 whitespace-no-wrap border border-gray-300 rounded-md shadow-xs bg-gray-600 text-gray-50 hover:bg-gray-700 focus:border-indigo-300 focus:ring-3 focus:ring-indigo-200/50"
     />
   </form>
 </template>
 
 <script setup lang="ts">
-import site from '~/data/site.json'
+import site from '~~/data/site.json'
 
 const route = useRoute()
 const { data: page } = await useAsyncData(route.path, () => {

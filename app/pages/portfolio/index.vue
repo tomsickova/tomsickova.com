@@ -8,7 +8,7 @@
     >
       <img :src="gallery.images[0]" class="h-full w-full object-cover" />
       <div
-        class="absolute capitalize w-full h-full inset-0 bg-black bg-opacity-50 text-white text-2xl opacity-0 hover:opacity-100 flex items-center justify-center font-medium transition-opacity"
+        class="absolute capitalize w-full h-full inset-0 bg-black/50 text-white text-2xl opacity-0 hover:opacity-100 flex items-center justify-center font-medium transition-opacity"
       >
         {{ gallery.title }}
       </div>

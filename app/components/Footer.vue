@@ -35,7 +35,7 @@
 <script setup lang="ts">
 import IconFacebook from '~/assets/facebook.svg?component'
 import IconInstagram from '~/assets/instagram.svg?component'
-import site from '~/data/site.json'
+import site from '~~/data/site.json'
 
 const localePath = useLocalePath()
 

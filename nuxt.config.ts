@@ -1,20 +1,16 @@
+import tailwindcss from '@tailwindcss/vite'
 import svgLoader from 'vite-svg-loader'
 
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-  compatibilityDate: '2025-01-30',
+  compatibilityDate: '2026-11-12',
 
-  modules: ['@nuxt/content', '@nuxtjs/i18n', '@nuxtjs/tailwindcss', 'nuxt-gtag'],
+  modules: ['@nuxt/content', '@nuxtjs/i18n', 'nuxt-gtag'],
 
   vite: {
-    plugins: [svgLoader()],
+    plugins: [tailwindcss(), svgLoader()],
   },
 
-  css: ['lightgallery/css/lightgallery.css'],
-
-  tailwindcss: {
-    viewer: false,
-  },
+  css: ['~/assets/css/main.css', 'lightgallery/css/lightgallery.css'],
 
   i18n: {
     locales: [
@@ -25,8 +21,10 @@ export default defineNuxtConfig({
     langDir: 'lang',
   },
 
-  // https://content.nuxtjs.org/api/configuration
   content: {
+    experimental: {
+      sqliteConnector: 'native',
+    },
     renderer: {
       anchorLinks: false,
     },
