@@ -4,7 +4,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs) to learn more.
 
 ## Setup
 
-Use Node 24. The version is pinned in `.node-version`, which Render reads too.
+Use Node 24 (pinned in `.node-version`, which Render reads too) and pnpm 12 (pinned in `packageManager`). pnpm 11 or newer switches to the pinned version by itself; pnpm 9 and 10 cannot install this project.
 
 Make sure to install the dependencies:
 
