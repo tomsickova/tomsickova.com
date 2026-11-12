@@ -8,6 +8,7 @@
       />
     </div>
     <Swiper
+      class="t-width mx-auto"
       :modules="[Autoplay]"
       :autoplay="{
         delay: 3000,
