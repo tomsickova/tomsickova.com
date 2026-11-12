@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col min-h-screen">
     <Header />
-    <main class="grow t-padding my-4">
+    <main class="grow px-[3vw] pb-[3vw] mt-4 md:mt-0 mb-4">
       <NuxtPage />
     </main>
     <Footer />
