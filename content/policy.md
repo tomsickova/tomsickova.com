@@ -3,74 +3,82 @@ title: 'Obchodní podmínky'
 description: ''
 ---
 
-## Objednání služeb
+TAŤANA TOMŠÍČKOVÁ – FOTOGRAFKA
+OBCHODNÍ PODMÍNKY
 
-Služby fotografa lze objednat prostřednictvím telefonického kontaktu, osobním kontaktem, mailovou poštou nebo pomocí zpráv na facebooku.
+Tyto obchodní podmínky upravují vztah mezi zákazníkem (dále jen „zákazník“) a provozovatelem služeb Taťana Tomšíčková, Wiesenthalova 1034/6, Praha 5, 155 00], IČO: 76229882 (dále jen „studio“).
+Odesláním rezervace zákazník potvrzuje, že se s těmito podmínkami seznámil a souhlasí s nimi.
 
-Objednáním služeb fotografa je automaticky stvrzeno přijetí obchodních podmínek a srozumění s nimi.
+Objednání služeb
+Služby fotografa lze objednat telefonicky, osobně, e-mailem nebo prostřednictvím zpráv na Facebooku.
+Objednáním fotografických služeb klient potvrzuje, že se seznámil s těmito obchodními podmínkami, rozumí jim a souhlasí s nimi.
+Objednáním služeb klient zároveň potvrzuje, že se seznámil s fotografickým stylem fotografa a souhlasí s ním.
+Fotograf pořizuje fotografie klienta a fotografovaných osob. Zveřejnění fotografií na webových stránkách, sociálních sítích nebo v jiných propagačních materiálech fotografa je možné pouze na základě předchozího písemného souhlasu klienta, uděleného e-mailem.
 
-Objednáním služeb se má zato, že se klient seznámil s fotografickým stylem fotografa a je s ním srozuměn.
+Ceny
+Ceny služeb jsou uvedeny v aktuálním ceníku ve studiu a na webu.
+Studio si vyhrazuje právo ceny měnit; platná cena je ta v den poskytnutí služby.
 
-Objednáním služeb fotografa automaticky udělujete souhlas s pořízením fotografii a zároveň souhlas s jejich uveřejněním na webových stránkách fotografky. V případě nesouhlasu je nutné tuto skutečnost oznámit nejpozději ihned po pořízení fotografií.
+Platba za fotografování a rezervace termínu
+Cena ateliérového a exteriérového fotografování je splatná ihned po jeho skončení, a to v hotovosti nebo prostřednictvím QR platby.
+Příplatek za víkendové fotografování činí 200 Kč.
+Pro závazné potvrzení rezervovaného termínu je nutné uhradit rezervační poplatek ve výši 500 Kč.
+Rezervační poplatek není zálohou, ale poplatkem za rezervaci a blokaci konkrétního termínu fotografování. Je nevratný. V případě zrušení rezervace ze strany klienta rezervační poplatek propadá ve prospěch fotografa a klientovi se nevrací.
+Uskuteční-li se fotografování, rezervační poplatek se odečítá od celkové ceny klientem vybraného fotografického balíčku.
 
-## Platba fotografování
+Lokace fotografování
+Fotografování probíhá v ateliéru, v exteriéru nebo v jakémkoli jiném prostředí, na kterém se fotograf s klientem předem dohodnou.
+Vstupné do objektů, památek a dalších míst, kde fotografování probíhá, není zahrnuto v ceně fotografování. Tyto náklady hradí klient.
 
-Cena ateliérového a exteriérového focení je vždy splatná ihned po skončení fotografování v hotovosti.
+Pozdní příchod klienta nebo fotografa
+Maximální délka fotografování je vždy uvedena v ceníku. Bez předchozí dohody s fotografem ji nelze prodlužovat.
+Pozdní příchod klienta není důvodem k prodloužení sjednané doby fotografování.
+Opozdí-li se klient o více než 30 minut, je fotograf oprávněn domluvené fotografování zrušit. V takovém případě uhrazený rezervační poplatek propadá bez nároku na vrácení.
+Fotograf je rovněž oprávněn požadovat úhradu 500 Kč za každou započatou hodinu čekání na příchod klienta.
 
-Příplatek za víkendové focení a svatky- 200,-Kč
+Výběr fotografií
+Fotografie z ateliérového a exteriérového fotografování jsou klientovi zasílány k výběru prostřednictvím internetové galerie.
+Počet fotografií zaslaných k výběru určuje fotograf. Vždy však zaručuje dostatečný a kvalitní výběr v rámci objednaného fotografického balíčku.
+Fotograf neručí za spolupráci všech fotografovaných osob. Pokud se v rámci vyhrazeného času nepodaří pořídit dostatečný počet kvalitních fotografií, nenese za tuto skutečnost odpovědnost.
+Klient nemá nárok na vymáhání většího počtu fotografií k výběru. Počet fotografií není možné odvozovat od délky ani náročnosti fotografování.
+Předáním zakázky se rozumí elektronické předání pouze upravených a vyretušovaných fotografií ve formátu JPG, a to v počtu odpovídajícím zvolenému fotografickému balíčku.
+Neupravené fotografie se klientovi neposkytují a zůstávají majetkem autora. Ostatní pořízené fotografie, které nebyly vybrány k finální úpravě, se neposkytují.
 
-Pro potvrzeni termínu focení je potřeba uhradit zálohu ve vyší 500 kč,- Záloha je nevratná a bude odečtena od finální častky Vámi vybraného balíčku.
+Retuše
+Všechny odevzdávané fotografie jsou upravené a retušované.
+U rodinných fotografií se standardně upravuje ořez, kontrast, jas a barevné ladění. Součástí běžné retuše je také odstranění drobných kosmetických vad.
+V případě nadstandardních zásahů, jako je například úprava zubů, odstranění tetování, samolepek nebo jiné náročnější retuše, je účtován příplatek 100 Kč za každou takto upravovanou fotografii.
+O případné nadstandardní retuši a její ceně je klient vždy předem informován a vše je s ním konzultováno.
 
-## Lokace fotografování
+Dárkové poukazy (vouchery)
+Dárkové poukazy jsou vystavovány na základě objednání této služby, a to v hodnotě jednotlivých fotografických balíčků dle aktuálního ceníku.
+Platnost dárkových poukazů je 6 měsíců. Služba musí být objednána i vyčerpána nejpozději do data platnosti poukazu. Datum platnosti a číslo voucheru jsou vždy uvedeny.Dárkový poukaz musí být vyčerpán během jednoho fotografování. Jeho hodnotu nelze rozdělit na více částí ani využít při více fotografováních.
+Pokud není poukaz uplatněn v době jeho platnosti, jeho hodnota bez náhrady propadá.
 
-Fotografování probíhá buď v atelieru, exteriérech nebo v jakémkoli jiném prostředí, na kterém se fotograf a klient dohodl. Vstupy do objektů a památek, kde probíhá fotografování, se hradí zvlášť a jdou vždy na vrub klienta.
+Formát fotografií
+Fotografie jsou klientovi odevzdávány v digitálním formátu JPEG v plném rozlišení.
 
-## Pozdní příchod klienta nebo fotografa
+Reklamace služeb
+Reklamaci je nutné uplatnit bezprostředně po provedení služby, případně nejpozději do 48 hodin.
+Studio najde vhodné řešení. Nárok na vrácení peněz vzniká pouze ve výjimečných a odůvodněných případech.
 
-Maximální délka focení je vždy uvedena v ceníku a nelze ji bez dohody s fotografem jakkoli prodlužovat či nastavovat.
+Autorská práva
+Náhledy fotografií z internetové galerie není dovoleno zveřejňovat ani jakkoli upravovat (například odstraňovat logo) bez souhlasu fotografa. Náhledy jsou určeny výhradně pro výběr fotografií k finální úpravě.
+Všechny pořízené fotografie jsou autorským dílem fotografa a vztahuje se na ně autorské právo dle zákona č. 121/2000 Sb., autorského zákona, ve znění pozdějších předpisů.
+Fotografie nesmí být bez předchozího písemného souhlasu autora použity ke komerčním účelům, propagaci ani prodány či poskytnuty třetím stranám pro komerční využití.
+Fotografované osoby mohou fotografie používat pro svou osobní a nekomerční prezentaci.
+Fotograf není oprávněn zveřejňovat ani jinak užívat fotografie klienta bez jeho předchozího písemného souhlasu uděleného e-mailem.
 
-Pozdní příchod klienta není důvodem k prodlužování časového harmonogramu focení.
+Termín dodání zakázky
+Ateliérové a exteriérové zakázky jsou předávány nejpozději do 21 kalendářních dnů ode dne, kdy klient dokončí výběr fotografií, nikoli ode dne fotografování.
+Klient je povinen provést výběr fotografií nejpozději do 14 dnů ode dne fotografování.
 
-Opozdí-li se klient o více než 30 minut, je fotograf oprávněn domluvené fotografování buď zrušit ( případná zaplacená záloha propadá bez náhrady ) nebo požadovat uhrazení 500 Kč za každou započatou hodinu čekání na klientův příchod.
+Osobní údaje
+Zákazník souhlasí se zpracováním osobních údajů v rozsahu nutném pro vedení rezervací a komunikaci.
+Osobní údaje jsou chráněny a nejsou poskytovány třetím stranám, kromě případů daných zákonem.
+Podrobnosti jsou uvedeny v Zásadách zpracování osobních údajů.
 
-## Výběr fotografií
-
-Fotografie z atelieru a exteriéru jsou k výběru zasílány prostřednictvím internetové galerie.
-
-Počet fotografií, které jsou zaslány k výběru, je zcela v kompetenci fotografa a není nikterak konkrétně určen. Vždy však zaručuje možnost dostatečného a kvalitního výběru v rámci objednaného balíčku. Fotograf však neručí za spolupráci všech členů rodiny a pokud se nepodaří v rámci časové dotace nafotit dostatek kvalitních fotografií nenese odpovědnost. Větší počet fotografií zasílaných k výběru nelze žádným způsobem vymáhat ani odvozovat od délky či náročnosti focení.
-
-## Retuše
-
-Všechny odevzdávané fotografie jsou retušované.
-
-U rodinných fotografií je upravován ořez, kontrast, jas a barevné ladění. Odstraňují se drobné kosmetické vady.
-
-V případě nadstandardních zásahů (úprava zubů, odstranění tetování/samolepek a dalších náročnějších retuší) je klientovi účtováno 100 Kč navíc za každou fotografii. Toto je vždy se zákazníkem konzultováno, aby bylo zřejmé, zda jde o nadstandardní retuš či nikoli.
-
-## Dárkové poukazy (vouchery)
-
-Dárkové poukazy jsou vystavovány na základě objednání této služby v hodnotě jednotlivých fotografování dle ceníku.
-
-Platnost dárkových poukazů je 6 měsíců. Služba musí být objednána i vyčerpána do data platnosti. Toto datum platnosti je spolu s číslem voucheru vždy uvedeno na jeho rubové straně.
-
-Služba musí být vyčerpána během jednoho focení, hodnotu poukazu nelze dělit na více částí ani na více focení.
-
-V případě, že není voucher do doby platnosti uplatněn, jeho hodnota beze zbytku propadá.
-
-## Formát fotografií
-
-Fotografie jsou odevzdávány ve formátu JPEG v plném rozlišení.
-
-## Autorská práva
-
-Náhledy fotografií z galerie není dovoleno kdekoli zveřejňovat a ani je dále upravovat (např. odstraněním loga) dle autorského zákona č.121/2000 sb. bez souhlasu fotografa. Jsou ve vlastnictví fotografa a jsou určeny pouze pro výběr fotografií k retuši.
-
-Všechny fotografie jsou předmětem autorského práva a majetkem fotografa a nesmí byt použity pro jakýkoli komerční účel, propagaci či prodej třetí straně bez písemného souhlasu autora.
-
-Fotografované osoby mohou používat fotografie pro svou nekomerční osobní prezentaci.
-
-Fotograf není oprávněn zveřejňovat ani jinak užívat fotografie bez předchozího souhlasu klienta. Tento souhlas musí byt fotografovi udělen písemnou formou mailem.
-
-## Termín dodání zakázky
-
-Ateliérové a exteriérové zakázky jsou předávány nejpozději do 21 kalendářních dní od výběru fotografií (ne ode dne focení). Výběr fotografií musí být do14 dní ode dne focení.
+Závěrečná ustanovení
+Studio si vyhrazuje právo tyto obchodní podmínky kdykoli aktualizovat.
+Platná verze je vždy zveřejněna v rezervačním systému a ve studiu.
+Odesláním rezervace zákazník potvrzuje, že se s obchodními podmínkami seznámil a přijímá je.
