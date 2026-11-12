@@ -1,0 +1,119 @@
+# Sveltia CMS, served at /admin/. Docs: https://sveltiacms.app/en/docs
+backend:
+  name: github
+  repo: tomsickova/tomsickova.com
+  branch: master
+  # base_url: https://sveltia-cms-auth.<your-subdomain>.workers.dev
+
+site_url: https://tomsickova.com
+
+media_folder: /app/assets/images
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image:
+          format: webp
+          quality: 85
+          width: 2048
+          height: 2048
+
+i18n:
+  locales: [cs, en]
+  default_locale: cs
+  omit_default_locale_from_file_path: true
+
+collections:
+  - name: pages
+    label: Pages
+    icon: description
+    i18n: true
+    files:
+      - name: news
+        label: News
+        file: content/{{locale}}/news.md
+        i18n: true
+        fields:
+          - &body
+            name: body
+            label: Text
+            widget: markdown
+            i18n: true
+            editor_components: []
+            buttons:
+              - bold
+              - italic
+              - link
+              - heading-one
+              - heading-two
+              - heading-three
+              - bulleted-list
+              - numbered-list
+              - quote
+      - name: home
+        label: Homepage
+        file: content/{{locale}}/index.md
+        i18n: true
+        fields: [*body]
+      - name: pricing
+        label: Pricing
+        file: content/{{locale}}/pricing.md
+        i18n: true
+        fields: [*body]
+      - name: about
+        label: About
+        file: content/{{locale}}/about.md
+        i18n: true
+        fields: [*body]
+      - name: contact
+        label: Contact (heading above the form)
+        file: content/{{locale}}/contact.md
+        i18n: true
+        fields: [*body]
+      - name: policy
+        label: Terms and policy
+        file: content/{{locale}}/policy.md
+        i18n: true
+        fields: [*body]
+
+  - name: settings
+    label: Settings
+    icon: settings
+    editor:
+      preview: false
+    files:
+      - name: site
+        label: Contact details
+        file: data/site.json
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: address, label: Address, widget: string }
+          - { name: phone, label: Phone, widget: string }
+          - { name: email, label: E-mail, widget: string }
+          - { name: ico, label: IČO, widget: string, required: false }
+          - { name: facebook, label: Facebook link, widget: string, required: false }
+          - { name: instagram, label: Instagram link, widget: string, required: false }
+          - name: contactFormAction
+            label: Contact form address (Formspree)
+            widget: string
+            hint: Where the contact form sends messages. Change only when switching to a new Formspree form.
+      - name: galleries
+        label: Portfolio galleries
+        file: data/galleries.json
+        fields:
+          - name: galleries
+            label: Galleries
+            label_singular: Gallery
+            widget: list
+            summary: '{{fields.cs}} / {{fields.en}} ({{fields.folder}})'
+            hint: >-
+              Each gallery is a folder under portfolio in the Assets library, and its photos are the
+              files in that folder. The order here is the order on the site. A folder that is not
+              listed still shows up, at the end, under its folder name.
+            fields:
+              - name: folder
+                label: Folder name
+                widget: string
+                hint: Exactly as in the Assets library. Use lowercase letters without spaces or accents, e.g. easter.
+              - { name: cs, label: Name in Czech, widget: string }
+              - { name: en, label: Name in English, widget: string }

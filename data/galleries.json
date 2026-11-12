@@ -1,0 +1,34 @@
+{
+  "galleries": [
+    {
+      "folder": "autumn",
+      "cs": "Podzim",
+      "en": "Autumn"
+    },
+    {
+      "folder": "bellies",
+      "cs": "Těhulky",
+      "en": "Bellies"
+    },
+    {
+      "folder": "christmas",
+      "cs": "Vánoce",
+      "en": "Christmas"
+    },
+    {
+      "folder": "families",
+      "cs": "Rodinné",
+      "en": "Families"
+    },
+    {
+      "folder": "kids",
+      "cs": "Děti",
+      "en": "Kids"
+    },
+    {
+      "folder": "newborns",
+      "cs": "Novorozenci",
+      "en": "Newborns"
+    }
+  ]
+}

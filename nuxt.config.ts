@@ -1,20 +1,30 @@
+import tailwindcss from '@tailwindcss/vite'
 import svgLoader from 'vite-svg-loader'
 
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-  compatibilityDate: '2025-01-30',
+  compatibilityDate: '2026-11-12',
 
-  modules: ['@nuxt/content', '@nuxtjs/i18n', '@nuxtjs/tailwindcss', 'nuxt-gtag'],
+  modules: ['@nuxt/content', '@nuxtjs/i18n', 'nuxt-gtag'],
 
   vite: {
-    plugins: [svgLoader()],
+    plugins: [tailwindcss(), svgLoader()],
+    $client: {
+      experimental: {
+        // Nuxt's client default is new URL(file, import.meta.url), an absolute URL that mismatches the server's /_nuxt/ path on hydration
+        renderBuiltUrl: (filename, { type, hostType }) => {
+          if (hostType !== 'js') return { relative: true }
+          if (type === 'public') {
+            return { runtime: `globalThis.__publicAssetsURL(${JSON.stringify(filename)})` }
+          }
+          return {
+            runtime: `globalThis.__buildAssetsURL(${JSON.stringify(filename.replace(/^_nuxt\//, ''))})`,
+          }
+        },
+      },
+    },
   },
 
-  css: ['lightgallery/css/lightgallery.css'],
-
-  tailwindcss: {
-    viewer: false,
-  },
+  css: ['~/assets/css/main.css', 'lightgallery/css/lightgallery.css'],
 
   i18n: {
     locales: [
@@ -23,10 +33,13 @@ export default defineNuxtConfig({
     ],
     defaultLocale: 'cs',
     langDir: 'lang',
+    detectBrowserLanguage: false,
   },
 
-  // https://content.nuxtjs.org/api/configuration
   content: {
+    experimental: {
+      sqliteConnector: 'native',
+    },
     renderer: {
       anchorLinks: false,
     },
