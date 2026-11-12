@@ -2,17 +2,17 @@
   <footer class="flex items-center justify-center t-padding">
     <div class="t-width w-full grid grid-cols-3 gap-5 md:gap-0 text-center">
       <div class="md:text-left col-span-3 md:col-span-1">
-        <p>Taťana Tomšíčková</p>
-        <p>Praha 5 - Reporyje, 155 00</p>
-        <p>+420774002703</p>
-        <p>t.tomsickova@seznam.cz</p>
-        <p>IČO: 76229882</p> 
+        <p>{{ site.name }}</p>
+        <p>{{ site.address }}</p>
+        <p>{{ site.phone }}</p>
+        <p>{{ site.email }}</p>
+        <p v-if="site.ico">IČO: {{ site.ico }}</p>
       </div>
 
       <div class="flex justify-center space-x-1 col-span-3 md:col-span-1">
         <a
           v-for="social in socialLinks"
-          :key="social.url"
+          :key="social.label"
           :href="social.url"
           target="_blank"
           class="p-1"
@@ -22,7 +22,7 @@
       </div>
 
       <div class="md:text-right col-span-3 md:col-span-1">
-        &copy; {{ new Date().getFullYear() }} Taťana Tomšíčková
+        &copy; {{ new Date().getFullYear() }} {{ site.name }}
         <br />
         <nuxt-link :to="localePath('/policy')" class="underline whitespace-nowrap">
           {{ $t('footer.terms') }}
@@ -35,21 +35,22 @@
 <script setup lang="ts">
 import IconFacebook from '~/assets/facebook.svg?component'
 import IconInstagram from '~/assets/instagram.svg?component'
+import site from '~/data/site.json'
 
 const localePath = useLocalePath()
 
 const socialLinks = [
   {
-    url: 'https://www.facebook.com/tatyanatomsickovaphotography',
+    url: site.facebook,
     label: 'Facebook',
     icon: IconFacebook,
   },
   {
-    url: 'https://www.instagram.com/tatyana_tomsickova',
+    url: site.instagram,
     label: 'Instagram',
     icon: IconInstagram,
   },
-]
+].filter((social) => social.url)
 </script>
 
 <style lang="postcss" scoped>

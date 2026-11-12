@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <div v-if="gallery">
     <h1 class="text-4xl mb-4 capitalize">
-      {{ te(`portfolio.${gallery}`) ? $t(`portfolio.${gallery}`) : gallery }}
+      {{ gallery.title }}
     </h1>
 
     <ul id="lightgallery" class="columns-1 lg:columns-2 gap-0">
-      <li v-for="image in images" :key="image" :data-src="image" class="p-0.5">
+      <li v-for="image in gallery.images" :key="image" :data-src="image" class="p-0.5">
         <img :src="image" class="object-cover w-full h-full cursor-pointer" />
       </li>
     </ul>
@@ -13,19 +13,14 @@
 </template>
 
 <script setup lang="ts">
-const { te } = useI18n()
 const { $lightGallery } = useNuxtApp()
 const route = useRoute()
+const galleries = useGalleries()
 
-const getGalleryImages = (gallery: string) => {
-  const images = Object.entries(
-    import.meta.glob('~/assets/images/portfolio/*/*.jpg', { eager: true })
-  )
-  return images.filter((image) => image[0].includes(gallery)).map((i: any) => i[1].default)
+const gallery = computed(() => galleries.value.find((g) => g.folder === route.params.gallery))
+if (!gallery.value) {
+  throw createError({ statusCode: 404, statusMessage: 'Gallery not found' })
 }
-
-const gallery = route.params.gallery as string
-const images = getGalleryImages(gallery)
 
 onMounted(() => {
   $lightGallery(document.getElementById('lightgallery')!, {

@@ -32,8 +32,11 @@ const { data: page } = await useAsyncData(route.path, () => {
 })
 
 const images = Object.values(
-  import.meta.glob('~/assets/images/homepage/*.jpg', { eager: true })
-).map((v: any) => v.default)
+  import.meta.glob<string>('~/assets/images/homepage/*.{jpg,jpeg,png,webp}', {
+    eager: true,
+    import: 'default',
+  })
+)
 </script>
 
 <style lang="postcss" scoped>

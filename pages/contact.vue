@@ -3,7 +3,7 @@
     id="fs-frm"
     name="message-form"
     accept-charset="utf-8"
-    action="https://formspree.io/f/t.tomsickova@seznam.cz"
+    :action="site.contactFormAction"
     method="post"
     class="max-w-md mx-auto"
   >
@@ -69,6 +69,8 @@
 </template>
 
 <script setup lang="ts">
+import site from '~/data/site.json'
+
 const route = useRoute()
 const { data: page } = await useAsyncData(route.path, () => {
   return queryCollection('content').path(route.path).first()

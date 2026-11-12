@@ -17,7 +17,10 @@ const { data: page } = await useAsyncData(route.path, () => {
   return queryCollection('content').path(route.path).first()
 })
 
-const images = Object.values(import.meta.glob('~/assets/images/news/*', { eager: true })).map(
-  (v: any) => v.default
+const images = Object.values(
+  import.meta.glob<string>('~/assets/images/news/*.{jpg,jpeg,png,webp}', {
+    eager: true,
+    import: 'default',
+  })
 )
 </script>
