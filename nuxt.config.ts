@@ -33,6 +33,7 @@ export default defineNuxtConfig({
     ],
     defaultLocale: 'cs',
     langDir: 'lang',
+    detectBrowserLanguage: false,
   },
 
   content: {
