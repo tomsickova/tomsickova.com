@@ -8,6 +8,20 @@ export default defineNuxtConfig({
 
   vite: {
     plugins: [tailwindcss(), svgLoader()],
+    $client: {
+      experimental: {
+        // Nuxt's client default is new URL(file, import.meta.url), an absolute URL that mismatches the server's /_nuxt/ path on hydration
+        renderBuiltUrl: (filename, { type, hostType }) => {
+          if (hostType !== 'js') return { relative: true }
+          if (type === 'public') {
+            return { runtime: `globalThis.__publicAssetsURL(${JSON.stringify(filename)})` }
+          }
+          return {
+            runtime: `globalThis.__buildAssetsURL(${JSON.stringify(filename.replace(/^_nuxt\//, ''))})`,
+          }
+        },
+      },
+    },
   },
 
   css: ['~/assets/css/main.css', 'lightgallery/css/lightgallery.css'],
