@@ -18,7 +18,7 @@ The photoshoot is suitable for children, couples, mums with their children, dads
 
 🐥 Weekend and public holiday surcharge: CZK 200
 
-🐥 Deposit: CZK 500
+🐥 Reservation fee: CZK 500
 
 ⏱ Photoshoot duration: 30–40 minutes
 
