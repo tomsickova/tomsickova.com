@@ -18,7 +18,7 @@ Focení je vhodné pro děti, pary, maminku s dětmi, tatínka s dětmi, oba rod
 
 🌲 Příplatek za víkend a svátek: 200 Kč
 
-🌲 Záloha: 500 Kč
+🌲 Rezervační poplatek: 500 Kč
 
 ⏱ Délka focení: 30-40 minut.
 
@@ -57,8 +57,5 @@ https://tomsickova.evenilo.cz/
 🎄✨ Už se na vás všechny moc těším! ✨🎄
 
 Pojďme společně vytvořit kouzelné vánoční vzpomínky, které vám zůstanou navždy. 🤍
-  
 
-
- 
-## [**Objednat se na focení**](/contact) 
+## **[Objednat se na focení](/contact)**
