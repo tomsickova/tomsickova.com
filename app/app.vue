@@ -1,14 +1,21 @@
 <template>
-  <div class="flex flex-col min-h-screen">
-    <Header />
-    <main class="grow px-[3vw] pb-[3vw] mt-4 md:mt-0 mb-4">
-      <NuxtPage />
-    </main>
+  <div class="flex min-h-screen flex-col">
+    <AnnouncementBar />
+    <div class="relative flex grow flex-col">
+      <Header :overlay="isHome" />
+      <main class="grow">
+        <NuxtPage />
+      </main>
+    </div>
     <Footer />
   </div>
 </template>
 
 <script setup lang="ts">
+const route = useRoute()
+const getRouteBaseName = useRouteBaseName()
+const isHome = computed(() => getRouteBaseName(route) === 'index')
+
 useHead({
   titleTemplate: (pageTitle) => {
     return pageTitle
@@ -17,12 +24,3 @@ useHead({
   },
 })
 </script>
-
-<style lang="postcss">
-.t-padding {
-  padding: 3vw;
-}
-.t-width {
-  max-width: 1600px;
-}
-</style>

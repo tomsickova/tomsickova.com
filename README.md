@@ -41,13 +41,16 @@ The site has a CMS at https://tomsickova.com/admin/ ([Sveltia CMS](https://svelt
 | What | In the CMS | In the repo |
 | --- | --- | --- |
 | Page texts, Czech and English | Pages | `content/*.md`, `content/en/*.md` |
-| Footer contact details, social links, contact form address | Settings > Contact details | `data/site.json` |
+| Contact details, social links, contact form address | Settings > Contact details | `data/site.json` |
+| Announcement bar at the top of every page | Settings > Announcement bar | `data/announcement.json` |
 | Gallery names and order | Settings > Portfolio galleries | `data/galleries.json` |
 | Photos | Assets > Global Assets > folder | `app/assets/images/<folder>/` |
 
+The Homepage text is shown over the photos at the top of the homepage. On every page, a heading that is only a link, like `## [**Objednat se na focení**](/contact)`, shows as a button. The heading and first two paragraphs of the About text also show on the homepage.
+
 Photo folders, all under `app/assets/images/`:
 
-- `homepage/`: the homepage slideshow
+- `homepage/`: the two photos at the top of the homepage. The first file by name is on the left, labelled Ateliér (studio), and the second on the right, labelled Exteriér (outdoors), so prefix them with `1.` and `2.`. Other files in the folder are not shown.
 - `news/`: photos below the News text
 - `about/`: the portrait on the About page (the first file by name)
 - `portfolio/<gallery>/`: one folder per gallery. The first file by name is the cover, so prefix it with `1.`. A folder missing from `data/galleries.json` still shows up, last, under its folder name.

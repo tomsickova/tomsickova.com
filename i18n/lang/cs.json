@@ -1,15 +1,31 @@
 {
   "navigation": {
+    "label": "Hlavní navigace",
     "news": "Aktuálně",
     "portfolio": "Portfolio",
     "pricing": "Ceník",
     "about": "O mně",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "menu": "Menu",
+    "close": "Zavřít",
+    "switchLanguage": "Přepnout do angličtiny"
+  },
+  "home": {
+    "studio": "Ateliér",
+    "outdoor": "Exteriér",
+    "allGalleries": "Všechny galerie",
+    "moreAbout": "Více o mně"
+  },
+  "portfolio": {
+    "photos": "{n} fotografie | {n} fotografie | {n} fotografií",
+    "photoAlt": "{gallery}, fotografie {n}"
   },
   "footer": {
     "terms": "Obchodní podmínky"
   },
   "contact": {
+    "heading": "Objednat se na focení",
+    "intro": "Napište mi a domluvíme se na focení.",
     "name": "Jméno",
     "namePlaceholder": "Jméno a příjmení",
     "email": "Váš e-mail",

@@ -1,5 +1,4 @@
 import tailwindcss from '@tailwindcss/vite'
-import svgLoader from 'vite-svg-loader'
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-11-12',
@@ -11,7 +10,7 @@ export default defineNuxtConfig({
   },
 
   vite: {
-    plugins: [tailwindcss(), svgLoader()],
+    plugins: [tailwindcss()],
     $client: {
       experimental: {
         // Nuxt's client default is new URL(file, import.meta.url), an absolute URL that mismatches the server's /_nuxt/ path on hydration
@@ -28,7 +27,12 @@ export default defineNuxtConfig({
     },
   },
 
-  css: ['~/assets/css/main.css', 'lightgallery/css/lightgallery.css'],
+  css: [
+    '@fontsource/anton',
+    '@fontsource-variable/archivo',
+    '~/assets/css/main.css',
+    'lightgallery/css/lightgallery.css',
+  ],
 
   i18n: {
     locales: [
