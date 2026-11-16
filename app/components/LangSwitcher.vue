@@ -1,17 +1,16 @@
 <template>
-  <nuxt-link
+  <NuxtLink
     :to="switchLocalePath(locale === 'en' ? 'cs' : 'en')"
-    class="font-medium p-2 text-lg"
+    class="py-3 text-white/70 hover:text-white"
   >
-    <IconLangCS v-if="locale === 'en'" class="h-6 w-6" />
-    <IconLangGB v-else class="h-6 w-6" />
-  </nuxt-link>
+    <span :class="{ 'text-white': locale === 'cs' }">CS</span>
+    /
+    <span :class="{ 'text-white': locale === 'en' }">EN</span>
+    <span class="sr-only">{{ t('navigation.switchLanguage') }}</span>
+  </NuxtLink>
 </template>
 
 <script setup lang="ts">
-import IconLangGB from '~/assets/gb.svg?component'
-import IconLangCS from '~/assets/cs.svg?component'
-
-const { locale } = useI18n()
+const { locale, t } = useI18n()
 const switchLocalePath = useSwitchLocalePath()
 </script>

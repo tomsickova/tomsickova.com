@@ -1,15 +1,31 @@
 {
   "navigation": {
+    "label": "Main navigation",
     "news": "News",
     "portfolio": "Portfolio",
     "pricing": "Pricing",
     "about": "About",
-    "contact": "Contact"
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "switchLanguage": "Switch to Czech"
+  },
+  "home": {
+    "studio": "Studio",
+    "outdoor": "Outdoors",
+    "allGalleries": "All galleries",
+    "moreAbout": "More about me"
+  },
+  "portfolio": {
+    "photos": "{n} photo | {n} photos",
+    "photoAlt": "{gallery}, photo {n}"
   },
   "footer": {
     "terms": "Terms and Policy"
   },
   "contact": {
+    "heading": "Book a session",
+    "intro": "Send me a message and we will arrange your session.",
     "name": "Name",
     "namePlaceholder": "First and Last",
     "email": "Your e-mail",

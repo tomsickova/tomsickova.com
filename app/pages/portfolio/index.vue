@@ -1,22 +1,12 @@
 <template>
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
-    <nuxt-link
-      v-for="gallery in galleries"
-      :key="gallery.folder"
-      :to="localePath(`/portfolio/${gallery.folder}`)"
-      class="aspect-ratio-1-1 w-full h-full relative"
-    >
-      <img :src="gallery.images[0]" class="h-full w-full object-cover" />
-      <div
-        class="absolute capitalize w-full h-full inset-0 bg-black/50 text-white text-2xl opacity-0 hover:opacity-100 flex items-center justify-center font-medium transition-opacity"
-      >
-        {{ gallery.title }}
-      </div>
-    </nuxt-link>
+  <div class="gutter py-16 md:py-24">
+    <div class="page-width flex flex-col gap-12 md:gap-16">
+      <h1 class="display-title">{{ t('navigation.portfolio') }}</h1>
+      <GalleryGrid />
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
-const localePath = useLocalePath()
-const galleries = useGalleries()
+const { t } = useI18n()
 </script>

@@ -51,7 +51,7 @@ collections:
               - numbered-list
               - quote
       - name: home
-        label: Homepage
+        label: Homepage (text over the photos at the top)
         file: content/{{locale}}/index.md
         i18n: true
         fields: [*body]
@@ -61,7 +61,7 @@ collections:
         i18n: true
         fields: [*body]
       - name: about
-        label: About
+        label: About (the heading and first two paragraphs also show on the homepage)
         file: content/{{locale}}/about.md
         i18n: true
         fields: [*body]
@@ -97,6 +97,20 @@ collections:
             label: Contact form address (Formspree)
             widget: string
             hint: Where the contact form sends messages. Change only when switching to a new Formspree form.
+      - name: announcement
+        label: Announcement bar
+        file: data/announcement.json
+        fields:
+          - { name: show, label: Show the bar at the top of every page, widget: boolean }
+          - { name: cs, label: Text in Czech, widget: string }
+          - { name: en, label: Text in English, widget: string }
+          - name: link
+            label: Link
+            widget: string
+            required: false
+            hint: A full address such as https://tomsickova.evenilo.cz/, or a page of this site such as /news. Leave empty for no link.
+          - { name: linkCs, label: Link text in Czech, widget: string, required: false }
+          - { name: linkEn, label: Link text in English, widget: string, required: false }
       - name: galleries
         label: Portfolio galleries
         file: data/galleries.json

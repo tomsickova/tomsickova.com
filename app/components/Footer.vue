@@ -1,61 +1,42 @@
 <template>
-  <footer class="flex items-center justify-center t-padding">
-    <div class="t-width w-full grid grid-cols-3 gap-5 md:gap-0 text-center">
-      <div class="md:text-left col-span-3 md:col-span-1">
-        <p>{{ site.name }}</p>
-        <p>{{ site.address }}</p>
-        <p>{{ site.phone }}</p>
-        <p>{{ site.email }}</p>
-        <p v-if="site.ico">IČO: {{ site.ico }}</p>
+  <footer class="gutter bg-ink py-10 text-sm leading-6 text-line">
+    <div class="page-width flex flex-wrap items-end justify-between gap-x-12 gap-y-6">
+      <div class="flex flex-col">
+        <span class="font-semibold text-white">{{ site.name }}</span>
+        <span>{{ bindShortWords(site.address, 'cs') }}</span>
+        <span v-if="site.ico">{{ bindShortWords(`IČO: ${site.ico}`, 'cs') }}</span>
       </div>
-
-      <div class="flex justify-center space-x-1 col-span-3 md:col-span-1">
-        <a
-          v-for="social in socialLinks"
-          :key="social.label"
-          :href="social.url"
-          target="_blank"
-          class="p-1"
+      <div class="flex flex-col items-start">
+        <a :href="phoneHref" class="hover:text-white">{{ site.phone }}</a>
+        <a :href="`mailto:${site.email}`" class="hover:text-white">{{ site.email }}</a>
+        <div class="flex gap-x-5">
+          <a
+            v-for="social in socialLinks"
+            :key="social.label"
+            :href="social.url"
+            class="underline underline-offset-[3px] hover:text-white"
+          >
+            {{ social.label }}
+          </a>
+        </div>
+      </div>
+      <div class="flex flex-col items-start sm:items-end">
+        <span>&copy; {{ new Date().getFullYear() }} {{ site.name }}</span>
+        <NuxtLink
+          :to="localePath('/policy')"
+          class="underline underline-offset-[3px] hover:text-white"
         >
-          <component :is="social.icon" class="h-9 w-9" />
-        </a>
-      </div>
-
-      <div class="md:text-right col-span-3 md:col-span-1">
-        &copy; {{ new Date().getFullYear() }} {{ site.name }}
-        <br />
-        <nuxt-link :to="localePath('/policy')" class="underline whitespace-nowrap">
-          {{ $t('footer.terms') }}
-        </nuxt-link>
+          {{ t('footer.terms') }}
+        </NuxtLink>
       </div>
     </div>
   </footer>
 </template>
 
 <script setup lang="ts">
-import IconFacebook from '~/assets/facebook.svg?component'
-import IconInstagram from '~/assets/instagram.svg?component'
 import site from '~~/data/site.json'
 
+const { t } = useI18n()
 const localePath = useLocalePath()
-
-const socialLinks = [
-  {
-    url: site.facebook,
-    label: 'Facebook',
-    icon: IconFacebook,
-  },
-  {
-    url: site.instagram,
-    label: 'Instagram',
-    icon: IconInstagram,
-  },
-].filter((social) => social.url)
+const { phoneHref, socialLinks } = useContactLinks()
 </script>
-
-<style lang="postcss" scoped>
-footer {
-  min-height: 20vh;
-  background-color: #dfe0e1;
-}
-</style>

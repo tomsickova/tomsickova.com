@@ -1,21 +1,20 @@
 <template>
-  <div>
-    <div class="prose max-w-3xl mx-auto">
-      <ContentRenderer v-if="page" :value="page" />
+  <div class="gutter py-16 md:py-24">
+    <div class="page-width flex flex-col gap-12 md:gap-16">
+      <h1 class="display-title">{{ t('navigation.news') }}</h1>
+      <ContentRenderer v-if="page" :value="page" class="copy" />
+      <ul class="columns-1 gap-3 sm:columns-2 xl:columns-3">
+        <li v-for="image in images" :key="image" class="mb-3 break-inside-avoid">
+          <img :src="image" alt="" loading="lazy" class="w-full" />
+        </li>
+      </ul>
     </div>
-    <ul class="my-10 columns-1 lg:columns-2 gap-0 max-w-[1920px] mx-auto">
-      <li v-for="image in images" :key="image" class="p-0.5">
-        <img :src="image" class="object-cover w-full h-full" />
-      </li>
-    </ul>
   </div>
 </template>
 
 <script setup lang="ts">
-const route = useRoute()
-const { data: page } = await useAsyncData(route.path, () => {
-  return queryCollection('content').path(route.path).first()
-})
+const { t } = useI18n()
+const { data: page } = await usePageContent(useRoute().path)
 
 const images = Object.values(
   import.meta.glob<string>('~/assets/images/news/*.{jpg,jpeg,png,webp}', {

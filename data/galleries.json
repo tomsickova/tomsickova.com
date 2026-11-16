@@ -1,24 +1,9 @@
 {
   "galleries": [
     {
-      "folder": "autumn",
-      "cs": "Podzim",
-      "en": "Autumn"
-    },
-    {
-      "folder": "bellies",
-      "cs": "Těhulky",
-      "en": "Bellies"
-    },
-    {
-      "folder": "christmas",
-      "cs": "Vánoce",
-      "en": "Christmas"
-    },
-    {
-      "folder": "families",
-      "cs": "Rodinné",
-      "en": "Families"
+      "folder": "newborns",
+      "cs": "Novorozenci",
+      "en": "Newborns"
     },
     {
       "folder": "kids",
@@ -26,9 +11,24 @@
       "en": "Kids"
     },
     {
-      "folder": "newborns",
-      "cs": "Novorozenci",
-      "en": "Newborns"
+      "folder": "families",
+      "cs": "Rodinné",
+      "en": "Families"
+    },
+    {
+      "folder": "bellies",
+      "cs": "Těhulky",
+      "en": "Bellies"
+    },
+    {
+      "folder": "autumn",
+      "cs": "Podzim",
+      "en": "Autumn"
+    },
+    {
+      "folder": "christmas",
+      "cs": "Vánoce",
+      "en": "Christmas"
     }
   ]
 }
