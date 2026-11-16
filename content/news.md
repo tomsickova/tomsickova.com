@@ -45,9 +45,9 @@ Rezervační systém opět poběží přes Evenilo.
 
 Po vytvoření rezervace je potřeba uhradit zálohu 500 Kč do 3 dnů od rezervace.
 
-Záloha je nevratná a bude odečtena z celkové ceny balíčku.
+Rezervační poplatek je nevratná a bude odečten z celkové ceny balíčku.
 
-Pokud budete muset focení zrušit, nabídnu Vám jiný náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na náhradní termín nedostavíte, záloha Vám bohužel propadá.
+Pokud budete muset focení zrušit, nabídnu Vám jiný náhradní termín, který bude vyhovovat oběma stranám. Pokud se ani na náhradní termín nedostavíte, rezervační poplatek Vám bohužel propadá.
 
 Zbývající částka za focení je splatná v hotovosti nebo přes QR kodem nejpozději v den focení.
 
