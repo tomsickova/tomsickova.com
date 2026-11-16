@@ -45,9 +45,9 @@ Bookings will once again be made through Calendly.
 
 After making your reservation, a CZK 500 deposit must be paid within 3 days of booking.
 
-The deposit is non-refundable and will be deducted from the total package price.
+The reservation fee is non-refundable and will be deducted from the total package price.
 
-If you need to cancel your photoshoot, I will offer you an alternative date that works for both of us. If you are unable to attend the replacement date as well, the deposit will unfortunately be forfeited.
+If you need to cancel your photoshoot, I will offer you an alternative date that works for both of us. If you are unable to attend the replacement date as well, the reservation fee will unfortunately be forfeited.
 
 The remaining balance is payable in cash or via QR code no later than on the day of the photoshoot.
 
