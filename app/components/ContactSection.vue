@@ -4,7 +4,7 @@
       <slot />
       <div class="flex flex-wrap gap-x-24 gap-y-14">
         <div class="flex min-w-0 flex-[1_1_380px] flex-col gap-4">
-          <p class="max-w-[420px] text-[19px]">{{ t('contact.intro') }}</p>
+          <p class="max-w-[420px] text-[19px]">{{ bindShortWords(t('contact.intro'), locale) }}</p>
           <a
             :href="phoneHref"
             class="mt-4 self-start font-display text-[40px] leading-[52px] whitespace-nowrap hover:text-accent"
@@ -17,7 +17,7 @@
           >
             {{ site.email }}
           </a>
-          <span class="py-2 text-muted">{{ site.address }}</span>
+          <span class="py-2 text-muted">{{ bindShortWords(site.address, 'cs') }}</span>
           <div class="eyebrow flex flex-wrap gap-x-7">
             <a
               v-for="social in socialLinks"
@@ -38,6 +38,6 @@
 <script setup lang="ts">
 import site from '~~/data/site.json'
 
-const { t } = useI18n()
+const { t, locale } = useI18n()
 const { phoneHref, socialLinks } = useContactLinks()
 </script>

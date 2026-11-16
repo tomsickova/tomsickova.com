@@ -80,14 +80,8 @@ const { t } = useI18n()
 const route = useRoute()
 const localePath = useLocalePath()
 
-const { data: page } = await useAsyncData(route.path, () => {
-  return queryCollection('content').path(route.path).first()
-})
-
-const aboutPath = localePath('/about')
-const { data: about } = await useAsyncData(`about-intro:${aboutPath}`, () => {
-  return queryCollection('content').path(aboutPath).first()
-})
+const { data: page } = await usePageContent(route.path)
+const { data: about } = await usePageContent(localePath('/about'))
 
 const aboutIntro = computed(() => {
   if (!about.value) return null

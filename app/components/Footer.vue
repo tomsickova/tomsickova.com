@@ -3,8 +3,8 @@
     <div class="page-width flex flex-wrap items-end justify-between gap-x-12 gap-y-6">
       <div class="flex flex-col">
         <span class="font-semibold text-white">{{ site.name }}</span>
-        <span>{{ site.address }}</span>
-        <span v-if="site.ico">IČO: {{ site.ico }}</span>
+        <span>{{ bindShortWords(site.address, 'cs') }}</span>
+        <span v-if="site.ico">{{ bindShortWords(`IČO: ${site.ico}`, 'cs') }}</span>
       </div>
       <div class="flex flex-col items-start">
         <a :href="phoneHref" class="hover:text-white">{{ site.phone }}</a>

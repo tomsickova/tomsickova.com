@@ -14,10 +14,7 @@
 
 <script setup lang="ts">
 const { t } = useI18n()
-const route = useRoute()
-const { data: page } = await useAsyncData(route.path, () => {
-  return queryCollection('content').path(route.path).first()
-})
+const { data: page } = await usePageContent(useRoute().path)
 
 const images = Object.values(
   import.meta.glob<string>('~/assets/images/news/*.{jpg,jpeg,png,webp}', {
