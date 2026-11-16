@@ -6,6 +6,10 @@ export default defineNuxtConfig({
 
   modules: ['@nuxt/content', '@nuxtjs/i18n', 'nuxt-gtag'],
 
+  devServer: {
+    port: 5000,
+  },
+
   vite: {
     plugins: [tailwindcss(), svgLoader()],
     $client: {

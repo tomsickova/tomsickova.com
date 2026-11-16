@@ -14,7 +14,7 @@ pnpm install
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on http://localhost:5000
 
 ```bash
 pnpm dev
@@ -73,4 +73,4 @@ The "Sign In with GitHub" button only works after a one-time setup of the [Svelt
 
 ### Trying the CMS locally
 
-Run `pnpm dev`, open http://localhost:3000/admin/index.html in Chrome, click "Work with Local Repository" and select this folder. Changes are written to the files on disk and not committed.
+Run `pnpm dev`, open http://localhost:5000/admin/index.html in Chrome, click "Work with Local Repository" and select this folder. Changes are written to the files on disk and not committed.
